@@ -1,0 +1,7321 @@
+{
+  "version": "0.0.0",
+  "pictograms": [
+    {
+      "name": "feuerloescher",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Security",
+        "Firefighting",
+        "Feuerloescher"
+      ]
+    },
+    {
+      "name": "notausgang-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Security",
+        "Evacuation",
+        "Notausgang",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "notausgang-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Security",
+        "Evacuation",
+        "Notausgang",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "notbremse",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Security",
+        "Evacuation",
+        "Notbremse"
+      ]
+    },
+    {
+      "name": "notleiter",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Security",
+        "Evacuation",
+        "Notleiter"
+      ]
+    },
+    {
+      "name": "defibrilator",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Security",
+        "Evacuation",
+        "Defibrilator"
+      ]
+    },
+    {
+      "name": "scheibe-herausdruecken",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Security",
+        "Evacuation",
+        "Scheibe-herausdruecken"
+      ]
+    },
+    {
+      "name": "notruf",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Security",
+        "Evacuation",
+        "Notruf"
+      ]
+    },
+    {
+      "name": "scheibe-hier-einschlagen",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Security",
+        "Evacuation",
+        "Scheibe-hier-einschlagen"
+      ]
+    },
+    {
+      "name": "notfallanweisung",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Security",
+        "Evacuation",
+        "Notfallanweisung"
+      ]
+    },
+    {
+      "name": "zoll-it",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Zoll",
+        "Language=it"
+      ]
+    },
+    {
+      "name": "zoll-de",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Zoll",
+        "Language=de"
+      ]
+    },
+    {
+      "name": "zoll-fr",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Zoll",
+        "Language=fr"
+      ]
+    },
+    {
+      "name": "achtung-zug-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Achtung-Zug",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "achtung-zug-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Achtung-Zug",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "velo-verboten-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Velo-Verboten",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "velo-verboten-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Velo-Verboten",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "links-gehen-rechts-stehen",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Links-gehen-rechts-stehen"
+      ]
+    },
+    {
+      "name": "hunde-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Hunde-Verboten"
+      ]
+    },
+    {
+      "name": "hinauslehnen-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Hinauslehnen-Verboten"
+      ]
+    },
+    {
+      "name": "nichraucher",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Nichraucher"
+      ]
+    },
+    {
+      "name": "gepaeck-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Gepaeck-Verboten"
+      ]
+    },
+    {
+      "name": "restmuell-und-hygieneartikel-einwerfen-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Restmuell-und-Hygieneartikel-einwerfen-verboten"
+      ]
+    },
+    {
+      "name": "laute-musik-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Laute-Musik-Verboten"
+      ]
+    },
+    {
+      "name": "gegenstaende-hinauswerfen-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Gegenstaende-Hinauswerfen-Verboten"
+      ]
+    },
+    {
+      "name": "gepaeckschubwagen-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Gepaeckschubwagen-Verboten"
+      ]
+    },
+    {
+      "name": "durchgang-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Durchgang-Verboten"
+      ]
+    },
+    {
+      "name": "maximale-belastung",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Maximale-Belastung"
+      ]
+    },
+    {
+      "name": "achtung-sturzgefahr",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Achtung-Sturzgefahr"
+      ]
+    },
+    {
+      "name": "trittbrettfahren-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Trittbrettfahren-Verboten"
+      ]
+    },
+    {
+      "name": "baustelle",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Baustelle"
+      ]
+    },
+    {
+      "name": "selbstkontrolle",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Selbstkontrolle"
+      ]
+    },
+    {
+      "name": "video-ueberwachung",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Video-Ueberwachung"
+      ]
+    },
+    {
+      "name": "raucher",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Raucher"
+      ]
+    },
+    {
+      "name": "aufspringen-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Aufspringen-Verboten"
+      ]
+    },
+    {
+      "name": "mobile-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Mobile-Verboten"
+      ]
+    },
+    {
+      "name": "betreten-verboten",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Commandment-Prohibition",
+        "Betreten-Verboten"
+      ]
+    },
+    {
+      "name": "rolltreppe-aufwaerts-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Rolltreppe-aufwaerts",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "rolltreppe-aufwaerts-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Rolltreppe-aufwaerts",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "treppe-abwaerts-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Treppe-abwaerts",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "treppe-abwaerts-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Treppe-abwaerts",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "rampe-aufwaerts-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Rampe-aufwaerts",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "rampe-aufwaerts-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Rampe-aufwaerts",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "rampe-abwaerts-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Rampe-abwaerts",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "rampe-abwaerts-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Rampe-abwaerts",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "rolltreppe-abwaerts-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Rolltreppe-abwaerts",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "rolltreppe-abwaerts-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Rolltreppe-abwaerts",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "treppe-aufwaerts-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Treppe-aufwaerts",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "treppe-aufwaerts-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Treppe-aufwaerts",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "lift",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Ascension-Descension",
+        "Lift"
+      ]
+    },
+    {
+      "name": "tueroeffnung",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Functionality",
+        "Tueroeffnung"
+      ]
+    },
+    {
+      "name": "tueroeffnung-doppeltuere",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Functionality",
+        "Tueroeffnung-Doppeltuere"
+      ]
+    },
+    {
+      "name": "schliesszustand",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Functionality",
+        "Schliesszustand"
+      ]
+    },
+    {
+      "name": "recycling-papier",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Disposal",
+        "Recycling-Papier"
+      ]
+    },
+    {
+      "name": "recycling-pet",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Disposal",
+        "Recycling-PET"
+      ]
+    },
+    {
+      "name": "recycling-alu",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Disposal",
+        "Recycling-Alu"
+      ]
+    },
+    {
+      "name": "recycling-glas",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Disposal",
+        "Recycling-Glas"
+      ]
+    },
+    {
+      "name": "restmuell",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Disposal",
+        "Restmuell"
+      ]
+    },
+    {
+      "name": "entsorgung-hygieneartickel",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Disposal",
+        "Entsorgung-Hygieneartickel"
+      ]
+    },
+    {
+      "name": "trinkwasser",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "Trinkwasser"
+      ]
+    },
+    {
+      "name": "stuetzhilfe-wc",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "Stuetzhilfe-WC"
+      ]
+    },
+    {
+      "name": "wickeltisch",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "Wickeltisch"
+      ]
+    },
+    {
+      "name": "haendetrockner",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "Haendetrockner"
+      ]
+    },
+    {
+      "name": "trittausloeser",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "Trittausloeser"
+      ]
+    },
+    {
+      "name": "pissoir",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "Pissoir"
+      ]
+    },
+    {
+      "name": "seife",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "Seife"
+      ]
+    },
+    {
+      "name": "kein-trinkwasser",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "kein-Trinkwasser"
+      ]
+    },
+    {
+      "name": "wc-unisex",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "WC-Unisex"
+      ]
+    },
+    {
+      "name": "dusche",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "Dusche"
+      ]
+    },
+    {
+      "name": "wc-damen",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "WC-Damen"
+      ]
+    },
+    {
+      "name": "barrierefrei",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "Barrierefrei"
+      ]
+    },
+    {
+      "name": "wc",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "WC"
+      ]
+    },
+    {
+      "name": "handduecher",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "Handduecher"
+      ]
+    },
+    {
+      "name": "wc-herren",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Functions",
+        "Hygiene",
+        "WC-Herren"
+      ]
+    },
+    {
+      "name": "barrierefrei-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Barrierefrei",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "barrierefrei-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Barrierefrei",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "barrierefrei-direction3",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Barrierefrei",
+        "Direction=Direction3"
+      ]
+    },
+    {
+      "name": "hilferuf",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Hilferuf"
+      ]
+    },
+    {
+      "name": "induktive-kupplung",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Induktive-Kupplung"
+      ]
+    },
+    {
+      "name": "kinderwagen-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Kinderwagen",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "kinderwagen-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Kinderwagen",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "kupplung",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Kupplung"
+      ]
+    },
+    {
+      "name": "mobilitaetseinschraenkung-blind",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Mobilitaetseinschraenkung-Blind"
+      ]
+    },
+    {
+      "name": "mobilitaetseinschraenkung-gebrechlich",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Mobilitaetseinschraenkung-Gebrechlich"
+      ]
+    },
+    {
+      "name": "mobilitaetseinschraenkung-gehoerlos",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Mobilitaetseinschraenkung-Gehoerlos"
+      ]
+    },
+    {
+      "name": "mobilitaetseinschraenkung-schwanger",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Mobilitaetseinschraenkung-Schwanger"
+      ]
+    },
+    {
+      "name": "mobilitaetseinschraenkung-verletzt",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Accessibility",
+        "Mobilitaetseinschraenkung-Verletzt"
+      ]
+    },
+    {
+      "name": "abflug-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Abflug",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "abflug-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Abflug",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "ankunft-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ankunft",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "ankunft-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ankunft",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "billette",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Billette"
+      ]
+    },
+    {
+      "name": "check-in-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Check-in",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "check-in-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Check-in",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "bahnhofhilfe",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Bahnhofhilfe"
+      ]
+    },
+    {
+      "name": "bistro",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Bistro"
+      ]
+    },
+    {
+      "name": "businesszone",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Businesszone"
+      ]
+    },
+    {
+      "name": "durchsage",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Durchsage"
+      ]
+    },
+    {
+      "name": "familienzone",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Familienzone"
+      ]
+    },
+    {
+      "name": "flugzeugbestuhlung",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Flugzeugbestuhlung"
+      ]
+    },
+    {
+      "name": "fundbuero",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Fundbuero"
+      ]
+    },
+    {
+      "name": "garderobe",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Garderobe"
+      ]
+    },
+    {
+      "name": "geldautomat",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Geldautomat"
+      ]
+    },
+    {
+      "name": "geldwechsel",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Geldwechsel"
+      ]
+    },
+    {
+      "name": "gepaeck",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Gepaeck"
+      ]
+    },
+    {
+      "name": "gepaeck-schubwagen",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Gepaeck-Schubwagen"
+      ]
+    },
+    {
+      "name": "gepaeckablage",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Gepaeckablage"
+      ]
+    },
+    {
+      "name": "gepaeckaufbewahrung",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Gepaeckaufbewahrung"
+      ]
+    },
+    {
+      "name": "gepaeckaufgabe",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Gepaeckaufgabe"
+      ]
+    },
+    {
+      "name": "gepaeckausgabe",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Gepaeckausgabe"
+      ]
+    },
+    {
+      "name": "information",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Information"
+      ]
+    },
+    {
+      "name": "mobile",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Mobile"
+      ]
+    },
+    {
+      "name": "multifunktionsabteil",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Multifunktionsabteil"
+      ]
+    },
+    {
+      "name": "notfallnummer",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Notfallnummer"
+      ]
+    },
+    {
+      "name": "reservation",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Reservation"
+      ]
+    },
+    {
+      "name": "restaurant",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Restaurant"
+      ]
+    },
+    {
+      "name": "ruhezone",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Ruhezone"
+      ]
+    },
+    {
+      "name": "schliessfach",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Schliessfach"
+      ]
+    },
+    {
+      "name": "shopping",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Shopping"
+      ]
+    },
+    {
+      "name": "skistaender",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Skistaender"
+      ]
+    },
+    {
+      "name": "telefon",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Telefon"
+      ]
+    },
+    {
+      "name": "ticket-machine-de",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Ticket-Machine",
+        "Language=de"
+      ]
+    },
+    {
+      "name": "ticket-machine-fr",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Ticket-Machine",
+        "Language=fr"
+      ]
+    },
+    {
+      "name": "ticket-machine-it",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Ticket-Machine",
+        "Language=it"
+      ]
+    },
+    {
+      "name": "touristen-information",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Touristen-Information"
+      ]
+    },
+    {
+      "name": "treffpunkt",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Treffpunkt"
+      ]
+    },
+    {
+      "name": "warteraum",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "Warteraum"
+      ]
+    },
+    {
+      "name": "wlan",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Services",
+        "Ticket-Machine",
+        "WLAN"
+      ]
+    },
+    {
+      "name": "mofa-reservation-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Parking",
+        "Mofa-Reservation",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "mofa-reservation-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Parking",
+        "Mofa-Reservation",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "velo-parkplatz-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Parking",
+        "Velo-Parkplatz",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "velo-parkplatz-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Parking",
+        "Velo-Parkplatz",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "velo-reservation-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Parking",
+        "Velo-Reservation",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "velo-reservation-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Parking",
+        "Velo-Reservation",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "velostation-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Parking",
+        "Velostation",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "velostation-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Parking",
+        "Velostation",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "park-rail",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Parking",
+        "Park-Rail"
+      ]
+    },
+    {
+      "name": "parkhaus",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Parking",
+        "Parkhaus"
+      ]
+    },
+    {
+      "name": "parkplatz",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Parking",
+        "Parkplatz"
+      ]
+    },
+    {
+      "name": "autofähre-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autofähre",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "autofähre-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autofähre",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "autoverlad-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autoverlad",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "autoverlad-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autoverlad",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "autovermietung-left-en",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autovermietung",
+        "Language=en, Direction=left"
+      ]
+    },
+    {
+      "name": "autovermietung-left-de",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autovermietung",
+        "Language=de, Direction=left"
+      ]
+    },
+    {
+      "name": "autovermietung-left-fr",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autovermietung",
+        "Language=fr, Direction=left"
+      ]
+    },
+    {
+      "name": "autovermietung-left-it",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autovermietung",
+        "Language=it, Direction=left"
+      ]
+    },
+    {
+      "name": "autovermietung-right-en",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autovermietung",
+        "Language=en, Direction=right"
+      ]
+    },
+    {
+      "name": "autovermietung-right-de",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autovermietung",
+        "Language=de, Direction=right"
+      ]
+    },
+    {
+      "name": "autovermietung-right-fr",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autovermietung",
+        "Language=fr, Direction=right"
+      ]
+    },
+    {
+      "name": "autovermietung-right-it",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Autovermietung",
+        "Language=it, Direction=right"
+      ]
+    },
+    {
+      "name": "bus-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Bus",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "bus-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Bus",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "flugzeug-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Flugzeug",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "flugzeug-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Flugzeug",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "gondelbahn-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Gondelbahn",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "gondelbahn-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Gondelbahn",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "lastwagenverlad-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Lastwagenverlad",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "lastwagenverlad-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Lastwagenverlad",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "luftseilbahn-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Luftseilbahn",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "luftseilbahn-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Luftseilbahn",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "metro-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Metro",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "metro-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Metro",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "schiff-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Schiff",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "schiff-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Schiff",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "sessellift-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Sessellift",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "sessellift-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Sessellift",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "skilift-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Skilift",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "skilift-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Skilift",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "standseilbahn-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Standseilbahn",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "standseilbahn-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Standseilbahn",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "taxi-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Taxi",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "taxi-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Taxi",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "tram-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Tram",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "tram-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Tram",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "velovermietung-left-none",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Velovermietung",
+        "Direction=left, Language=none"
+      ]
+    },
+    {
+      "name": "velovermietung-left-de",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Velovermietung",
+        "Direction=left, Language=de"
+      ]
+    },
+    {
+      "name": "velovermietung-left-fr",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Velovermietung",
+        "Direction=left, Language=fr"
+      ]
+    },
+    {
+      "name": "velovermietung-left-it",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Velovermietung",
+        "Direction=left, Language=it"
+      ]
+    },
+    {
+      "name": "velovermietung-right-none",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Velovermietung",
+        "Direction=right, Language=none"
+      ]
+    },
+    {
+      "name": "velovermietung-right-de",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Velovermietung",
+        "Direction=right, Language=de"
+      ]
+    },
+    {
+      "name": "velovermietung-right-fr",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Velovermietung",
+        "Direction=right, Language=fr"
+      ]
+    },
+    {
+      "name": "velovermietung-right-it",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Velovermietung",
+        "Direction=right, Language=it"
+      ]
+    },
+    {
+      "name": "zahnradbahn-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Zahnradbahn",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "zahnradbahn-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Zahnradbahn",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "zug-left",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Zug",
+        "Direction=left"
+      ]
+    },
+    {
+      "name": "zug-right",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Journey",
+        "Transportation",
+        "Zug",
+        "Direction=right"
+      ]
+    },
+    {
+      "name": "platform-0-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=0, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-0-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=0, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-0-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=0, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-0-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=0, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-0-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=0, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-0-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=0, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-1-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=1, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-1-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=1, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-1-it-large",
+      "color": false,
+      "tags": [
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=1, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-1-de-small",
+      "color": false,
+      "tags": [
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=1, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-1-fr-small",
+      "color": false,
+      "tags": [
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=1, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-1-it-small",
+      "color": false,
+      "tags": [
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=1, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-2-de-large",
+      "color": false,
+      "tags": [
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=2, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-2-fr-large",
+      "color": false,
+      "tags": [
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=2, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-2-it-large",
+      "color": false,
+      "tags": [
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=2, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-2-de-small",
+      "color": false,
+      "tags": [
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=2, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-2-fr-small",
+      "color": false,
+      "tags": [
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=2, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-2-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=2, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-3-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=3, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-3-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=3, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-3-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=3, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-3-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=3, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-3-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=3, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-3-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=3, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-4-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=4, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-4-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=4, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-4-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=4, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-4-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=4, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-4-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=4, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-4-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=4, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-5-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=5, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-5-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=5, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-5-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=5, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-5-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=5, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-5-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=5, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-5-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=5, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-6-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=6, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-6-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=6, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-6-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=6, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-6-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=6, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-6-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=6, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-6-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=6, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-7-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=7, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-7-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=7, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-7-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=7, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-7-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=7, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-7-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=7, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-7-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=7, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-8-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=8, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-8-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=8, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-8-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=8, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-8-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=8, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-8-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=8, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-8-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=8, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-9-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=9, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-9-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=9, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-9-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=9, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-9-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=9, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-9-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=9, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-9-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=9, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-10-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=10, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-10-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=10, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-10-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=10, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-10-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=10, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-10-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=10, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-10-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=10, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-11-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=11, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-11-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=11, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-11-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=11, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-11-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=11, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-11-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=11, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-11-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=11, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-12-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=12, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-12-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=12, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-12-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=12, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-12-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=12, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-12-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=12, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-12-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=12, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-13-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=13, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-13-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=13, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-13-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=13, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-13-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=13, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-13-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=13, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-13-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=13, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-14-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=14, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-14-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=14, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-14-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=14, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-14-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=14, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-14-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=14, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-14-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=14, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-15-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=15, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-15-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=15, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-15-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=15, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-15-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=15, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-15-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=15, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-15-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=15, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-16-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=16, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-16-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=16, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-16-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=16, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-16-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=16, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-16-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=16, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-16-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=16, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-17-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=17, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-17-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=17, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-17-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=17, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-17-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=17, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-17-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=17, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-17-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=17, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-18-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=18, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-18-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=18, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-18-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=18, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-18-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=18, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-18-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=18, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-18-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=18, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-19-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=19, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-19-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=19, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-19-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=19, Value-Size=Large"
+      ]
+    },
+    {
+      "name": "platform-19-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=19, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-19-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=19, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-19-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=19, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-20-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=20, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-20-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=20, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-20-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=20, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-21-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=21, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-21-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=21, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-21-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=21, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-22-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=22, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-22-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=22, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-22-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=22, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-23-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=23, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-23-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=23, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-23-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=23, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-24-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=24, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-24-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=24, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-24-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=24, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-25-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=25, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-25-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=25, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-25-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=25, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-26-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=26, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-26-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=26, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-26-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=26, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-27-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=27, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-27-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=27, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-27-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=27, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-28-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=28, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-28-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=28, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-28-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=28, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-29-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=29, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-29-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=29, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-29-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=29, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-30-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=30, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-30-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=30, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-30-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=30, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-31-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=31, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-31-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=31, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-31-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=31, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-32-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=32, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-32-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=32, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-32-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=32, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-33-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=33, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-33-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=33, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-33-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=33, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-34-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=34, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-34-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=34, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-34-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=34, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-35-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=35, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-35-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=35, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-35-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=35, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-36-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=36, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-36-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=36, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-36-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=36, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-37-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=37, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-37-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=37, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-37-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=37, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-38-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=38, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-38-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=38, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-38-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=38, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-39-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=39, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-39-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=39, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-39-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=39, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-40-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=40, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-40-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=40, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-40-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=40, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-41-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=41, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-41-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=41, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-41-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=41, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-42-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=42, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-42-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=42, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-42-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=42, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-43-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=43, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-43-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=43, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-43-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=43, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-44-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=44, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-44-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=44, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-44-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=44, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-45-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=45, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-45-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=45, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-45-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=45, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-46-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=46, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-46-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=46, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-46-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=46, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-47-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=47, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-47-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=47, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-47-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=47, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-48-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=48, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-48-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=48, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-48-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=48, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-49-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=49, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-49-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=49, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-49-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=49, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-50-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=50, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-50-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=50, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-50-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=50, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-51-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=51, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-51-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=51, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-51-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=51, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-52-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=52, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-52-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=52, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-52-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=52, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-53-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=53, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-53-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=53, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-53-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=53, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-54-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=54, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-54-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=54, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-54-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=54, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-55-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=55, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-55-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=55, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-55-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=55, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-56-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=56, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-56-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=56, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-56-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=56, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-57-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=57, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-57-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=57, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-57-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=57, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-58-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=58, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-58-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=58, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-58-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=58, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-59-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=59, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-59-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=59, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-59-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=59, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-60-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=60, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-60-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=60, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-60-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=60, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-61-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=61, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-61-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=61, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-61-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=61, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-62-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=62, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-62-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=62, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-62-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=62, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-63-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=63, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-63-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=63, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-63-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=63, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-64-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=64, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-64-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=64, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-64-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=64, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-65-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=65, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-65-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=65, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-65-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=65, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-66-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=66, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-66-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=66, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-66-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=66, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-67-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=67, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-67-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=67, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-67-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=67, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-68-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=68, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-68-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=68, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-68-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=68, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-69-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=69, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-69-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=69, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-69-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=69, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-70-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=70, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-70-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=70, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-70-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=70, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-71-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=71, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-71-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=71, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-71-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=71, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-72-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=72, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-72-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=72, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-72-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=72, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-73-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=73, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-73-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=73, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-73-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=73, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-74-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=74, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-74-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=74, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-75-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=75, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-75-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=75, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-75-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=75, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-76-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=76, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-76-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=76, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-76-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=76, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-77-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=77, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-77-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=77, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-77-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=77, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-78-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=78, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-78-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=78, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-78-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=78, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-79-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=79, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-79-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=79, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-79-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=79, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-80-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=80, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-80-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=80, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-80-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=80, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-81-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=81, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-81-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=81, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-81-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=81, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-82-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=82, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-82-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=82, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-82-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=82, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-83-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=83, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-83-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=83, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-83-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=83, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-84-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=84, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-84-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=84, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-84-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=84, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-85-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=85, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-85-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=85, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-85-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=85, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-86-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=86, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-86-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=86, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-86-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=86, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-87-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=87, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-87-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=87, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-87-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=87, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-88-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=88, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-88-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=88, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-88-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=88, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-89-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=89, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-89-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=89, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-89-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=89, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-90-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=90, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-90-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=90, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-90-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=90, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-91-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=91, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-91-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=91, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-91-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=91, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-92-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=92, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-92-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=92, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-92-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=92, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-93-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=93, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-93-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=93, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-93-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=93, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-94-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=94, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-94-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=94, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-94-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=94, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-95-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=95, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-95-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=95, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-95-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=95, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-96-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=96, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-96-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=96, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-96-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=96, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-97-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=97, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-97-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=97, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-97-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=97, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-98-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=98, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-98-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=98, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-98-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=98, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-99-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=de, Value=99, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-99-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=99, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-99-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=it, Value=99, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "platform-74-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Platform",
+        "Language=fr, Value=74, Value-Size=Small"
+      ]
+    },
+    {
+      "name": "sector-a-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=A, Value-Size=Large, Language=de"
+      ]
+    },
+    {
+      "name": "sector-a-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=A, Value-Size=Large, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-a-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=A, Value-Size=Large, Language=it"
+      ]
+    },
+    {
+      "name": "sector-a-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=A, Value-Size=Small, Language=de"
+      ]
+    },
+    {
+      "name": "sector-a-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=A, Value-Size=Small, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-a-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=A, Value-Size=Small, Language=it"
+      ]
+    },
+    {
+      "name": "sector-b-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=B, Value-Size=Large, Language=de"
+      ]
+    },
+    {
+      "name": "sector-b-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=B, Value-Size=Large, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-b-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=B, Value-Size=Large, Language=it"
+      ]
+    },
+    {
+      "name": "sector-b-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=B, Value-Size=Small, Language=de"
+      ]
+    },
+    {
+      "name": "sector-b-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=B, Value-Size=Small, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-b-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=B, Value-Size=Small, Language=it"
+      ]
+    },
+    {
+      "name": "sector-c-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=C, Value-Size=Large, Language=de"
+      ]
+    },
+    {
+      "name": "sector-c-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=C, Value-Size=Large, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-c-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=C, Value-Size=Large, Language=it"
+      ]
+    },
+    {
+      "name": "sector-c-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=C, Value-Size=Small, Language=de"
+      ]
+    },
+    {
+      "name": "sector-c-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=C, Value-Size=Small, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-c-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=C, Value-Size=Small, Language=it"
+      ]
+    },
+    {
+      "name": "sector-d-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=D, Value-Size=Large, Language=de"
+      ]
+    },
+    {
+      "name": "sector-d-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=D, Value-Size=Large, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-d-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=D, Value-Size=Large, Language=it"
+      ]
+    },
+    {
+      "name": "sector-d-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=D, Value-Size=Small, Language=de"
+      ]
+    },
+    {
+      "name": "sector-d-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=D, Value-Size=Small, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-d-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=D, Value-Size=Small, Language=it"
+      ]
+    },
+    {
+      "name": "sector-e-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=E, Value-Size=Large, Language=de"
+      ]
+    },
+    {
+      "name": "sector-e-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=E, Value-Size=Large, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-e-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=E, Value-Size=Large, Language=it"
+      ]
+    },
+    {
+      "name": "sector-e-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=E, Value-Size=Small, Language=de"
+      ]
+    },
+    {
+      "name": "sector-e-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=E, Value-Size=Small, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-e-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=E, Value-Size=Small, Language=it"
+      ]
+    },
+    {
+      "name": "sector-f-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=F, Value-Size=Large, Language=de"
+      ]
+    },
+    {
+      "name": "sector-f-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=F, Value-Size=Large, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-f-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=F, Value-Size=Large, Language=it"
+      ]
+    },
+    {
+      "name": "sector-f-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=F, Value-Size=Small, Language=de"
+      ]
+    },
+    {
+      "name": "sector-f-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=F, Value-Size=Small, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-f-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=F, Value-Size=Small, Language=it"
+      ]
+    },
+    {
+      "name": "sector-g-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=G, Value-Size=Large, Language=de"
+      ]
+    },
+    {
+      "name": "sector-g-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=G, Value-Size=Large, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-g-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=G, Value-Size=Large, Language=it"
+      ]
+    },
+    {
+      "name": "sector-g-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=G, Value-Size=Small, Language=de"
+      ]
+    },
+    {
+      "name": "sector-g-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=G, Value-Size=Small, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-g-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=G, Value-Size=Small, Language=it"
+      ]
+    },
+    {
+      "name": "sector-h-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=H, Value-Size=Large, Language=de"
+      ]
+    },
+    {
+      "name": "sector-h-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=H, Value-Size=Large, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-h-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=H, Value-Size=Large, Language=it"
+      ]
+    },
+    {
+      "name": "sector-h-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=H, Value-Size=Small, Language=de"
+      ]
+    },
+    {
+      "name": "sector-h-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=H, Value-Size=Small, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-h-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=H, Value-Size=Small, Language=it"
+      ]
+    },
+    {
+      "name": "sector-j-de-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=J, Value-Size=Large, Language=de"
+      ]
+    },
+    {
+      "name": "sector-j-fr-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=J, Value-Size=Large, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-j-it-large",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=J, Value-Size=Large, Language=it"
+      ]
+    },
+    {
+      "name": "sector-j-de-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=J, Value-Size=Small, Language=de"
+      ]
+    },
+    {
+      "name": "sector-j-fr-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=J, Value-Size=Small, Language=fr"
+      ]
+    },
+    {
+      "name": "sector-j-it-small",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Sector",
+        "Value=J, Value-Size=Small, Language=it"
+      ]
+    },
+    {
+      "name": "class-1",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Class",
+        "Value=1"
+      ]
+    },
+    {
+      "name": "class-2",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "Page 1",
+        "Generic",
+        "Class",
+        "Value=2"
+      ]
+    }
+  ]
+}
