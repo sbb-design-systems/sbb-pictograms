@@ -1,0 +1,56 @@
+name: 'Create release'
+description: 'Creates a release, publishes the package and pushes pictograms to S3'
+inputs:
+  npm-token:
+    description: 'Npm token to publish package'
+    required: true
+  aws-access-key-id:
+    description: 'AWS access key id'
+    required: true
+  aws-secret-access-key:
+    description: 'AWS access key secret'
+    required: true
+
+runs:
+  using: 'composite'
+  steps:
+    - name: 'Release: Create release with standard-version'
+      run: |
+        if [ -f CHANGELOG.md ]; then
+          yarn standard-version
+        else
+          yarn standard-version --first-release
+        fi
+      shell: bash
+    - name: 'Release: Push release to repository'
+      run: git push --follow-tags origin main
+      shell: bash
+    - name: 'Release: Determine npm tag'
+      id: npm_tag
+      run: |
+        if [[ "$REF" == *"-"* ]]
+        then
+            echo "::set-output name=npm_tag::next"
+        else
+            echo "::set-output name=npm_tag::latest"
+        fi
+      env:
+        REF: ${{ github.ref }}
+      shell: bash
+    - name: 'Release: Publish @sbb-esta/pictograms'
+      run: yarn publish --tag ${{ steps.npm_tag.outputs.npm_tag }}
+      env:
+        NODE_AUTH_TOKEN: ${{ inputs.npm-token }}
+      shell: bash
+      
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ inputs.aws-access-key-id }}
+        aws-secret-access-key: ${{ inputs.aws-secret-access-key }}
+        aws-region: eu-central-1
+    - name: Upload pictograms and indexes to s3
+      run: aws s3 cp . s3://cloudfront-icon-cdn-backend-esta-web-prod --recursive --exclude "*" --include "pictograms/*.svg" --include "pictograms/index.json"
+      env:
+        S3BUCKET: 
+      shell: bash
