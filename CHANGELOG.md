@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.3 (2023-04-19)
+
+
+### Features
+
+* update refactored and renamed pictograms ([5e83f19](https://github.com/sbb-design-systems/sbb-pictograms/commit/5e83f19276ea40433772b62cf214433501aea600))
+
 ### 0.0.2 (2022-11-21)
 
 
