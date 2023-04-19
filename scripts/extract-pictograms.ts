@@ -37,7 +37,7 @@ interface Description {
         pathAsString
       ),
       readonly keywords = [
-        ...(description.keywords?.split(/[, ]+/) ?? []),
+        ...splitKeywords(description.keywords),
         ...fullPath.map((n) => n.name),
       ]
     ) {}
@@ -256,9 +256,9 @@ interface Description {
         {} as Record<string, string>
       );
 
-    return `${parent.name.toLowerCase()}${value ?? ''}${direction ?? ''}${
-      language ?? ''
-    }${valueSize ?? ''}.svg`;
+    return `${parent.name.split('/')!.at(-1)!.toLowerCase()}${value ?? ''}${
+      direction ?? ''
+    }${language ?? ''}${valueSize ?? ''}.svg`;
   }
 
   function tryParseJSON<T>(
@@ -282,6 +282,16 @@ interface Description {
         severity: 'warn',
       });
       return {};
+    }
+  }
+
+  function splitKeywords(keyword: string | string[] | undefined): string[] {
+    if (!keyword) {
+      return [];
+    } else if (typeof keyword === 'string') {
+      return keyword.split(/[, ]+/);
+    } else {
+      return keyword;
     }
   }
 

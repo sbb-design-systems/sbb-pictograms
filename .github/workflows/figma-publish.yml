@@ -2,6 +2,22 @@ name: Figma Publish
 on:
   repository_dispatch:
     types: [library_publish]
+  workflow_dispatch:
+    inputs:
+      commit_type:
+        description: 'Commit Type'
+        required: true
+        default: 'refactor'
+        type: choice
+        options:
+        - feat
+        - fix
+        - refactor
+      commit_message:
+        description: 'Commit Type'
+        required: true
+        default: 'update icons'
+        type: string
 
 jobs:
   release:  
