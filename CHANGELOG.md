@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.4 (2023-04-24)
+
+
+### Bug Fixes
+
+* distinguish between framed and not framed pictograms ([65ad1a5](https://github.com/sbb-design-systems/sbb-pictograms/commit/65ad1a5927dc1f61ce6e72747e8cd870bff51bbd))
+
 ### 0.0.3 (2023-04-19)
 
 
