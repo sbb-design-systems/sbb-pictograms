@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "pictograms": [
     {
       "name": "arrow-pointing-left-blue",
@@ -21652,7 +21652,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-left-blue",
+      "name": "arrow-pointing-left-blue-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21677,7 +21677,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-right-blue",
+      "name": "arrow-pointing-right-blue-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21702,7 +21702,7 @@
       ]
     },
     {
-      "name": "arrow-straight-ahead-pointing-up-blue",
+      "name": "arrow-straight-ahead-pointing-up-blue-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21727,7 +21727,7 @@
       ]
     },
     {
-      "name": "arrow-straight-ahead-pointing-down-blue",
+      "name": "arrow-straight-ahead-pointing-down-blue-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21752,7 +21752,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-left-and-up-blue",
+      "name": "arrow-pointing-left-and-up-blue-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21777,7 +21777,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-right-and-up-blue",
+      "name": "arrow-pointing-right-and-up-blue-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21802,7 +21802,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-left-and-down-blue",
+      "name": "arrow-pointing-left-and-down-blue-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21827,7 +21827,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-right-and-down-blue",
+      "name": "arrow-pointing-right-and-down-blue-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21852,7 +21852,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-left-green",
+      "name": "arrow-pointing-left-green-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21877,7 +21877,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-right-green",
+      "name": "arrow-pointing-right-green-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21902,7 +21902,7 @@
       ]
     },
     {
-      "name": "arrow-straight-ahead-pointing-up-green",
+      "name": "arrow-straight-ahead-pointing-up-green-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21927,7 +21927,7 @@
       ]
     },
     {
-      "name": "arrow-straight-ahead-pointing-down-green",
+      "name": "arrow-straight-ahead-pointing-down-green-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21952,7 +21952,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-left-and-up-green",
+      "name": "arrow-pointing-left-and-up-green-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21977,7 +21977,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-right-and-up-green",
+      "name": "arrow-pointing-right-and-up-green-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22002,7 +22002,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-left-and-down-green",
+      "name": "arrow-pointing-left-and-down-green-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22027,7 +22027,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-right-and-down-green",
+      "name": "arrow-pointing-right-and-down-green-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22052,7 +22052,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-left-red",
+      "name": "arrow-pointing-left-red-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22077,7 +22077,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-right-red",
+      "name": "arrow-pointing-right-red-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22102,7 +22102,7 @@
       ]
     },
     {
-      "name": "arrow-straight-ahead-pointing-up-red",
+      "name": "arrow-straight-ahead-pointing-up-red-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22127,7 +22127,7 @@
       ]
     },
     {
-      "name": "arrow-straight-ahead-pointing-down-red",
+      "name": "arrow-straight-ahead-pointing-down-red-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22152,7 +22152,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-left-and-up-red",
+      "name": "arrow-pointing-left-and-up-red-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22177,7 +22177,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-right-and-up-red",
+      "name": "arrow-pointing-right-and-up-red-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22202,7 +22202,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-left-and-down-red",
+      "name": "arrow-pointing-left-and-down-red-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22227,7 +22227,7 @@
       ]
     },
     {
-      "name": "arrow-pointing-right-and-down-red",
+      "name": "arrow-pointing-right-and-down-red-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22252,7 +22252,7 @@
       ]
     },
     {
-      "name": "arrow-turning-left",
+      "name": "arrow-turning-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22277,7 +22277,7 @@
       ]
     },
     {
-      "name": "arrow-turning-right",
+      "name": "arrow-turning-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22302,7 +22302,7 @@
       ]
     },
     {
-      "name": "tracks-99-it-small",
+      "name": "tracks-99-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22327,7 +22327,7 @@
       ]
     },
     {
-      "name": "tracks-99-fr-small",
+      "name": "tracks-99-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22352,7 +22352,7 @@
       ]
     },
     {
-      "name": "tracks-99-de-small",
+      "name": "tracks-99-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22377,7 +22377,7 @@
       ]
     },
     {
-      "name": "tracks-98-it-small",
+      "name": "tracks-98-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22402,7 +22402,7 @@
       ]
     },
     {
-      "name": "tracks-98-fr-small",
+      "name": "tracks-98-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22427,7 +22427,7 @@
       ]
     },
     {
-      "name": "tracks-98-de-small",
+      "name": "tracks-98-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22452,7 +22452,7 @@
       ]
     },
     {
-      "name": "tracks-97-it-small",
+      "name": "tracks-97-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22477,7 +22477,7 @@
       ]
     },
     {
-      "name": "tracks-97-fr-small",
+      "name": "tracks-97-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22502,7 +22502,7 @@
       ]
     },
     {
-      "name": "tracks-97-de-small",
+      "name": "tracks-97-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22527,7 +22527,7 @@
       ]
     },
     {
-      "name": "tracks-96-it-small",
+      "name": "tracks-96-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22552,7 +22552,7 @@
       ]
     },
     {
-      "name": "tracks-96-fr-small",
+      "name": "tracks-96-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22577,7 +22577,7 @@
       ]
     },
     {
-      "name": "tracks-96-de-small",
+      "name": "tracks-96-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22602,7 +22602,7 @@
       ]
     },
     {
-      "name": "tracks-95-it-small",
+      "name": "tracks-95-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22627,7 +22627,7 @@
       ]
     },
     {
-      "name": "tracks-95-fr-small",
+      "name": "tracks-95-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22652,7 +22652,7 @@
       ]
     },
     {
-      "name": "tracks-95-de-small",
+      "name": "tracks-95-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22677,7 +22677,7 @@
       ]
     },
     {
-      "name": "tracks-94-it-small",
+      "name": "tracks-94-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22702,7 +22702,7 @@
       ]
     },
     {
-      "name": "tracks-94-fr-small",
+      "name": "tracks-94-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22727,7 +22727,7 @@
       ]
     },
     {
-      "name": "tracks-94-de-small",
+      "name": "tracks-94-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22752,7 +22752,7 @@
       ]
     },
     {
-      "name": "tracks-93-it-small",
+      "name": "tracks-93-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22777,7 +22777,7 @@
       ]
     },
     {
-      "name": "tracks-93-fr-small",
+      "name": "tracks-93-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22802,7 +22802,7 @@
       ]
     },
     {
-      "name": "tracks-93-de-small",
+      "name": "tracks-93-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22827,7 +22827,7 @@
       ]
     },
     {
-      "name": "tracks-92-it-small",
+      "name": "tracks-92-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22852,7 +22852,7 @@
       ]
     },
     {
-      "name": "tracks-92-fr-small",
+      "name": "tracks-92-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22877,7 +22877,7 @@
       ]
     },
     {
-      "name": "tracks-92-de-small",
+      "name": "tracks-92-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22902,7 +22902,7 @@
       ]
     },
     {
-      "name": "tracks-91-it-small",
+      "name": "tracks-91-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22927,7 +22927,7 @@
       ]
     },
     {
-      "name": "tracks-91-fr-small",
+      "name": "tracks-91-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22952,7 +22952,7 @@
       ]
     },
     {
-      "name": "tracks-91-de-small",
+      "name": "tracks-91-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -22977,7 +22977,7 @@
       ]
     },
     {
-      "name": "tracks-90-it-small",
+      "name": "tracks-90-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23002,7 +23002,7 @@
       ]
     },
     {
-      "name": "tracks-90-fr-small",
+      "name": "tracks-90-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23027,7 +23027,7 @@
       ]
     },
     {
-      "name": "tracks-90-de-small",
+      "name": "tracks-90-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23052,7 +23052,7 @@
       ]
     },
     {
-      "name": "tracks-89-it-small",
+      "name": "tracks-89-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23077,7 +23077,7 @@
       ]
     },
     {
-      "name": "tracks-89-fr-small",
+      "name": "tracks-89-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23102,7 +23102,7 @@
       ]
     },
     {
-      "name": "tracks-89-de-small",
+      "name": "tracks-89-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23127,7 +23127,7 @@
       ]
     },
     {
-      "name": "tracks-88-it-small",
+      "name": "tracks-88-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23152,7 +23152,7 @@
       ]
     },
     {
-      "name": "tracks-88-fr-small",
+      "name": "tracks-88-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23177,7 +23177,7 @@
       ]
     },
     {
-      "name": "tracks-88-de-small",
+      "name": "tracks-88-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23202,7 +23202,7 @@
       ]
     },
     {
-      "name": "tracks-87-it-small",
+      "name": "tracks-87-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23227,7 +23227,7 @@
       ]
     },
     {
-      "name": "tracks-87-fr-small",
+      "name": "tracks-87-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23252,7 +23252,7 @@
       ]
     },
     {
-      "name": "tracks-87-de-small",
+      "name": "tracks-87-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23277,7 +23277,7 @@
       ]
     },
     {
-      "name": "tracks-86-it-small",
+      "name": "tracks-86-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23302,7 +23302,7 @@
       ]
     },
     {
-      "name": "tracks-86-fr-small",
+      "name": "tracks-86-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23327,7 +23327,7 @@
       ]
     },
     {
-      "name": "tracks-86-de-small",
+      "name": "tracks-86-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23352,7 +23352,7 @@
       ]
     },
     {
-      "name": "tracks-85-it-small",
+      "name": "tracks-85-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23377,7 +23377,7 @@
       ]
     },
     {
-      "name": "tracks-85-fr-small",
+      "name": "tracks-85-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23402,7 +23402,7 @@
       ]
     },
     {
-      "name": "tracks-85-de-small",
+      "name": "tracks-85-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23427,7 +23427,7 @@
       ]
     },
     {
-      "name": "tracks-84-it-small",
+      "name": "tracks-84-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23452,7 +23452,7 @@
       ]
     },
     {
-      "name": "tracks-84-fr-small",
+      "name": "tracks-84-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23477,7 +23477,7 @@
       ]
     },
     {
-      "name": "tracks-84-de-small",
+      "name": "tracks-84-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23502,7 +23502,7 @@
       ]
     },
     {
-      "name": "tracks-83-it-small",
+      "name": "tracks-83-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23527,7 +23527,7 @@
       ]
     },
     {
-      "name": "tracks-83-fr-small",
+      "name": "tracks-83-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23552,7 +23552,7 @@
       ]
     },
     {
-      "name": "tracks-83-de-small",
+      "name": "tracks-83-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23577,7 +23577,7 @@
       ]
     },
     {
-      "name": "tracks-82-it-small",
+      "name": "tracks-82-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23602,7 +23602,7 @@
       ]
     },
     {
-      "name": "tracks-82-fr-small",
+      "name": "tracks-82-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23627,7 +23627,7 @@
       ]
     },
     {
-      "name": "tracks-82-de-small",
+      "name": "tracks-82-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23652,7 +23652,7 @@
       ]
     },
     {
-      "name": "tracks-81-it-small",
+      "name": "tracks-81-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23677,7 +23677,7 @@
       ]
     },
     {
-      "name": "tracks-81-fr-small",
+      "name": "tracks-81-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23702,7 +23702,7 @@
       ]
     },
     {
-      "name": "tracks-81-de-small",
+      "name": "tracks-81-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23727,7 +23727,7 @@
       ]
     },
     {
-      "name": "tracks-80-it-small",
+      "name": "tracks-80-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23752,7 +23752,7 @@
       ]
     },
     {
-      "name": "tracks-80-fr-small",
+      "name": "tracks-80-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23777,7 +23777,7 @@
       ]
     },
     {
-      "name": "tracks-80-de-small",
+      "name": "tracks-80-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23802,7 +23802,7 @@
       ]
     },
     {
-      "name": "tracks-79-it-small",
+      "name": "tracks-79-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23827,7 +23827,7 @@
       ]
     },
     {
-      "name": "tracks-79-fr-small",
+      "name": "tracks-79-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23852,7 +23852,7 @@
       ]
     },
     {
-      "name": "tracks-79-de-small",
+      "name": "tracks-79-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23877,7 +23877,7 @@
       ]
     },
     {
-      "name": "tracks-78-it-small",
+      "name": "tracks-78-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23902,7 +23902,7 @@
       ]
     },
     {
-      "name": "tracks-78-fr-small",
+      "name": "tracks-78-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23927,7 +23927,7 @@
       ]
     },
     {
-      "name": "tracks-78-de-small",
+      "name": "tracks-78-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23952,7 +23952,7 @@
       ]
     },
     {
-      "name": "tracks-77-it-small",
+      "name": "tracks-77-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -23977,7 +23977,7 @@
       ]
     },
     {
-      "name": "tracks-77-fr-small",
+      "name": "tracks-77-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24002,7 +24002,7 @@
       ]
     },
     {
-      "name": "tracks-77-de-small",
+      "name": "tracks-77-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24027,7 +24027,7 @@
       ]
     },
     {
-      "name": "tracks-76-it-small",
+      "name": "tracks-76-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24052,7 +24052,7 @@
       ]
     },
     {
-      "name": "tracks-76-fr-small",
+      "name": "tracks-76-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24077,7 +24077,7 @@
       ]
     },
     {
-      "name": "tracks-76-de-small",
+      "name": "tracks-76-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24102,7 +24102,7 @@
       ]
     },
     {
-      "name": "tracks-75-it-small",
+      "name": "tracks-75-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24127,7 +24127,7 @@
       ]
     },
     {
-      "name": "tracks-75-fr-small",
+      "name": "tracks-75-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24152,7 +24152,7 @@
       ]
     },
     {
-      "name": "tracks-75-de-small",
+      "name": "tracks-75-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24177,7 +24177,7 @@
       ]
     },
     {
-      "name": "tracks-74-it-small",
+      "name": "tracks-74-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24202,7 +24202,7 @@
       ]
     },
     {
-      "name": "tracks-74-fr-small",
+      "name": "tracks-74-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24227,7 +24227,7 @@
       ]
     },
     {
-      "name": "tracks-74-de-small",
+      "name": "tracks-74-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24252,7 +24252,7 @@
       ]
     },
     {
-      "name": "tracks-73-it-small",
+      "name": "tracks-73-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24277,7 +24277,7 @@
       ]
     },
     {
-      "name": "tracks-73-fr-small",
+      "name": "tracks-73-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24302,7 +24302,7 @@
       ]
     },
     {
-      "name": "tracks-73-de-small",
+      "name": "tracks-73-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24327,7 +24327,7 @@
       ]
     },
     {
-      "name": "tracks-72-it-small",
+      "name": "tracks-72-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24352,7 +24352,7 @@
       ]
     },
     {
-      "name": "tracks-72-fr-small",
+      "name": "tracks-72-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24377,7 +24377,7 @@
       ]
     },
     {
-      "name": "tracks-72-de-small",
+      "name": "tracks-72-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24402,7 +24402,7 @@
       ]
     },
     {
-      "name": "tracks-71-it-small",
+      "name": "tracks-71-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24427,7 +24427,7 @@
       ]
     },
     {
-      "name": "tracks-71-fr-small",
+      "name": "tracks-71-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24452,7 +24452,7 @@
       ]
     },
     {
-      "name": "tracks-71-de-small",
+      "name": "tracks-71-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24477,7 +24477,7 @@
       ]
     },
     {
-      "name": "tracks-70-it-small",
+      "name": "tracks-70-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24502,7 +24502,7 @@
       ]
     },
     {
-      "name": "tracks-70-fr-small",
+      "name": "tracks-70-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24527,7 +24527,7 @@
       ]
     },
     {
-      "name": "tracks-70-de-small",
+      "name": "tracks-70-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24552,7 +24552,7 @@
       ]
     },
     {
-      "name": "tracks-69-it-small",
+      "name": "tracks-69-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24577,7 +24577,7 @@
       ]
     },
     {
-      "name": "tracks-69-fr-small",
+      "name": "tracks-69-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24602,7 +24602,7 @@
       ]
     },
     {
-      "name": "tracks-69-de-small",
+      "name": "tracks-69-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24627,7 +24627,7 @@
       ]
     },
     {
-      "name": "tracks-68-it-small",
+      "name": "tracks-68-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24652,7 +24652,7 @@
       ]
     },
     {
-      "name": "tracks-68-fr-small",
+      "name": "tracks-68-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24677,7 +24677,7 @@
       ]
     },
     {
-      "name": "tracks-68-de-small",
+      "name": "tracks-68-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24702,7 +24702,7 @@
       ]
     },
     {
-      "name": "tracks-67-it-small",
+      "name": "tracks-67-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24727,7 +24727,7 @@
       ]
     },
     {
-      "name": "tracks-67-fr-small",
+      "name": "tracks-67-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24752,7 +24752,7 @@
       ]
     },
     {
-      "name": "tracks-67-de-small",
+      "name": "tracks-67-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24777,7 +24777,7 @@
       ]
     },
     {
-      "name": "tracks-66-it-small",
+      "name": "tracks-66-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24802,7 +24802,7 @@
       ]
     },
     {
-      "name": "tracks-66-fr-small",
+      "name": "tracks-66-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24827,7 +24827,7 @@
       ]
     },
     {
-      "name": "tracks-66-de-small",
+      "name": "tracks-66-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24852,7 +24852,7 @@
       ]
     },
     {
-      "name": "tracks-65-it-small",
+      "name": "tracks-65-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24877,7 +24877,7 @@
       ]
     },
     {
-      "name": "tracks-65-fr-small",
+      "name": "tracks-65-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24902,7 +24902,7 @@
       ]
     },
     {
-      "name": "tracks-65-de-small",
+      "name": "tracks-65-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24927,7 +24927,7 @@
       ]
     },
     {
-      "name": "tracks-64-it-small",
+      "name": "tracks-64-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24952,7 +24952,7 @@
       ]
     },
     {
-      "name": "tracks-64-fr-small",
+      "name": "tracks-64-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -24977,7 +24977,7 @@
       ]
     },
     {
-      "name": "tracks-64-de-small",
+      "name": "tracks-64-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25002,7 +25002,7 @@
       ]
     },
     {
-      "name": "tracks-63-it-small",
+      "name": "tracks-63-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25027,7 +25027,7 @@
       ]
     },
     {
-      "name": "tracks-63-fr-small",
+      "name": "tracks-63-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25052,7 +25052,7 @@
       ]
     },
     {
-      "name": "tracks-63-de-small",
+      "name": "tracks-63-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25077,7 +25077,7 @@
       ]
     },
     {
-      "name": "tracks-62-it-small",
+      "name": "tracks-62-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25102,7 +25102,7 @@
       ]
     },
     {
-      "name": "tracks-62-fr-small",
+      "name": "tracks-62-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25127,7 +25127,7 @@
       ]
     },
     {
-      "name": "tracks-62-de-small",
+      "name": "tracks-62-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25152,7 +25152,7 @@
       ]
     },
     {
-      "name": "tracks-61-it-small",
+      "name": "tracks-61-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25177,7 +25177,7 @@
       ]
     },
     {
-      "name": "tracks-61-fr-small",
+      "name": "tracks-61-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25202,7 +25202,7 @@
       ]
     },
     {
-      "name": "tracks-61-de-small",
+      "name": "tracks-61-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25227,7 +25227,7 @@
       ]
     },
     {
-      "name": "tracks-60-it-small",
+      "name": "tracks-60-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25252,7 +25252,7 @@
       ]
     },
     {
-      "name": "tracks-60-fr-small",
+      "name": "tracks-60-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25277,7 +25277,7 @@
       ]
     },
     {
-      "name": "tracks-60-de-small",
+      "name": "tracks-60-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25302,7 +25302,7 @@
       ]
     },
     {
-      "name": "tracks-59-it-small",
+      "name": "tracks-59-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25327,7 +25327,7 @@
       ]
     },
     {
-      "name": "tracks-59-fr-small",
+      "name": "tracks-59-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25352,7 +25352,7 @@
       ]
     },
     {
-      "name": "tracks-59-de-small",
+      "name": "tracks-59-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25377,7 +25377,7 @@
       ]
     },
     {
-      "name": "tracks-58-it-small",
+      "name": "tracks-58-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25402,7 +25402,7 @@
       ]
     },
     {
-      "name": "tracks-58-fr-small",
+      "name": "tracks-58-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25427,7 +25427,7 @@
       ]
     },
     {
-      "name": "tracks-58-de-small",
+      "name": "tracks-58-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25452,7 +25452,7 @@
       ]
     },
     {
-      "name": "tracks-57-it-small",
+      "name": "tracks-57-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25477,7 +25477,7 @@
       ]
     },
     {
-      "name": "tracks-57-fr-small",
+      "name": "tracks-57-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25502,7 +25502,7 @@
       ]
     },
     {
-      "name": "tracks-57-de-small",
+      "name": "tracks-57-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25527,7 +25527,7 @@
       ]
     },
     {
-      "name": "tracks-56-it-small",
+      "name": "tracks-56-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25552,7 +25552,7 @@
       ]
     },
     {
-      "name": "tracks-56-fr-small",
+      "name": "tracks-56-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25577,7 +25577,7 @@
       ]
     },
     {
-      "name": "tracks-56-de-small",
+      "name": "tracks-56-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25602,7 +25602,7 @@
       ]
     },
     {
-      "name": "tracks-55-it-small",
+      "name": "tracks-55-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25627,7 +25627,7 @@
       ]
     },
     {
-      "name": "tracks-55-fr-small",
+      "name": "tracks-55-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25652,7 +25652,7 @@
       ]
     },
     {
-      "name": "tracks-55-de-small",
+      "name": "tracks-55-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25677,7 +25677,7 @@
       ]
     },
     {
-      "name": "tracks-54-it-small",
+      "name": "tracks-54-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25702,7 +25702,7 @@
       ]
     },
     {
-      "name": "tracks-54-fr-small",
+      "name": "tracks-54-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25727,7 +25727,7 @@
       ]
     },
     {
-      "name": "tracks-54-de-small",
+      "name": "tracks-54-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25752,7 +25752,7 @@
       ]
     },
     {
-      "name": "tracks-53-it-small",
+      "name": "tracks-53-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25777,7 +25777,7 @@
       ]
     },
     {
-      "name": "tracks-53-fr-small",
+      "name": "tracks-53-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25802,7 +25802,7 @@
       ]
     },
     {
-      "name": "tracks-53-de-small",
+      "name": "tracks-53-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25827,7 +25827,7 @@
       ]
     },
     {
-      "name": "tracks-52-it-small",
+      "name": "tracks-52-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25852,7 +25852,7 @@
       ]
     },
     {
-      "name": "tracks-52-fr-small",
+      "name": "tracks-52-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25877,7 +25877,7 @@
       ]
     },
     {
-      "name": "tracks-52-de-small",
+      "name": "tracks-52-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25902,7 +25902,7 @@
       ]
     },
     {
-      "name": "tracks-51-it-small",
+      "name": "tracks-51-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25927,7 +25927,7 @@
       ]
     },
     {
-      "name": "tracks-51-fr-small",
+      "name": "tracks-51-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25952,7 +25952,7 @@
       ]
     },
     {
-      "name": "tracks-51-de-small",
+      "name": "tracks-51-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -25977,7 +25977,7 @@
       ]
     },
     {
-      "name": "tracks-50-it-small",
+      "name": "tracks-50-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26002,7 +26002,7 @@
       ]
     },
     {
-      "name": "tracks-50-fr-small",
+      "name": "tracks-50-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26027,7 +26027,7 @@
       ]
     },
     {
-      "name": "tracks-50-de-small",
+      "name": "tracks-50-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26052,7 +26052,7 @@
       ]
     },
     {
-      "name": "tracks-49-it-small",
+      "name": "tracks-49-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26077,7 +26077,7 @@
       ]
     },
     {
-      "name": "tracks-49-fr-small",
+      "name": "tracks-49-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26102,7 +26102,7 @@
       ]
     },
     {
-      "name": "tracks-49-de-small",
+      "name": "tracks-49-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26127,7 +26127,7 @@
       ]
     },
     {
-      "name": "tracks-48-it-small",
+      "name": "tracks-48-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26152,7 +26152,7 @@
       ]
     },
     {
-      "name": "tracks-48-fr-small",
+      "name": "tracks-48-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26177,7 +26177,7 @@
       ]
     },
     {
-      "name": "tracks-48-de-small",
+      "name": "tracks-48-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26202,7 +26202,7 @@
       ]
     },
     {
-      "name": "tracks-47-it-small",
+      "name": "tracks-47-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26227,7 +26227,7 @@
       ]
     },
     {
-      "name": "tracks-47-fr-small",
+      "name": "tracks-47-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26252,7 +26252,7 @@
       ]
     },
     {
-      "name": "tracks-47-de-small",
+      "name": "tracks-47-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26277,7 +26277,7 @@
       ]
     },
     {
-      "name": "tracks-46-it-small",
+      "name": "tracks-46-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26302,7 +26302,7 @@
       ]
     },
     {
-      "name": "tracks-46-fr-small",
+      "name": "tracks-46-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26327,7 +26327,7 @@
       ]
     },
     {
-      "name": "tracks-46-de-small",
+      "name": "tracks-46-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26352,7 +26352,7 @@
       ]
     },
     {
-      "name": "tracks-45-it-small",
+      "name": "tracks-45-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26377,7 +26377,7 @@
       ]
     },
     {
-      "name": "tracks-45-fr-small",
+      "name": "tracks-45-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26402,7 +26402,7 @@
       ]
     },
     {
-      "name": "tracks-45-de-small",
+      "name": "tracks-45-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26427,7 +26427,7 @@
       ]
     },
     {
-      "name": "tracks-44-it-small",
+      "name": "tracks-44-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26452,7 +26452,7 @@
       ]
     },
     {
-      "name": "tracks-44-fr-small",
+      "name": "tracks-44-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26477,7 +26477,7 @@
       ]
     },
     {
-      "name": "tracks-44-de-small",
+      "name": "tracks-44-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26502,7 +26502,7 @@
       ]
     },
     {
-      "name": "tracks-43-it-small",
+      "name": "tracks-43-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26527,7 +26527,7 @@
       ]
     },
     {
-      "name": "tracks-43-fr-small",
+      "name": "tracks-43-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26552,7 +26552,7 @@
       ]
     },
     {
-      "name": "tracks-43-de-small",
+      "name": "tracks-43-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26577,7 +26577,7 @@
       ]
     },
     {
-      "name": "tracks-42-it-small",
+      "name": "tracks-42-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26602,7 +26602,7 @@
       ]
     },
     {
-      "name": "tracks-42-fr-small",
+      "name": "tracks-42-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26627,7 +26627,7 @@
       ]
     },
     {
-      "name": "tracks-42-de-small",
+      "name": "tracks-42-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26652,7 +26652,7 @@
       ]
     },
     {
-      "name": "tracks-41-it-small",
+      "name": "tracks-41-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26677,7 +26677,7 @@
       ]
     },
     {
-      "name": "tracks-41-fr-small",
+      "name": "tracks-41-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26702,7 +26702,7 @@
       ]
     },
     {
-      "name": "tracks-41-de-small",
+      "name": "tracks-41-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26727,7 +26727,7 @@
       ]
     },
     {
-      "name": "tracks-40-it-small",
+      "name": "tracks-40-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26752,7 +26752,7 @@
       ]
     },
     {
-      "name": "tracks-40-fr-small",
+      "name": "tracks-40-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26777,7 +26777,7 @@
       ]
     },
     {
-      "name": "tracks-40-de-small",
+      "name": "tracks-40-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26802,7 +26802,7 @@
       ]
     },
     {
-      "name": "tracks-39-it-small",
+      "name": "tracks-39-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26827,7 +26827,7 @@
       ]
     },
     {
-      "name": "tracks-39-fr-small",
+      "name": "tracks-39-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26852,7 +26852,7 @@
       ]
     },
     {
-      "name": "tracks-39-de-small",
+      "name": "tracks-39-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26877,7 +26877,7 @@
       ]
     },
     {
-      "name": "tracks-38-it-small",
+      "name": "tracks-38-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26902,7 +26902,7 @@
       ]
     },
     {
-      "name": "tracks-38-fr-small",
+      "name": "tracks-38-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26927,7 +26927,7 @@
       ]
     },
     {
-      "name": "tracks-38-de-small",
+      "name": "tracks-38-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26952,7 +26952,7 @@
       ]
     },
     {
-      "name": "tracks-37-it-small",
+      "name": "tracks-37-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -26977,7 +26977,7 @@
       ]
     },
     {
-      "name": "tracks-37-fr-small",
+      "name": "tracks-37-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27002,7 +27002,7 @@
       ]
     },
     {
-      "name": "tracks-37-de-small",
+      "name": "tracks-37-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27027,7 +27027,7 @@
       ]
     },
     {
-      "name": "tracks-36-it-small",
+      "name": "tracks-36-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27052,7 +27052,7 @@
       ]
     },
     {
-      "name": "tracks-36-fr-small",
+      "name": "tracks-36-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27077,7 +27077,7 @@
       ]
     },
     {
-      "name": "tracks-36-de-small",
+      "name": "tracks-36-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27102,7 +27102,7 @@
       ]
     },
     {
-      "name": "tracks-35-it-small",
+      "name": "tracks-35-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27127,7 +27127,7 @@
       ]
     },
     {
-      "name": "tracks-35-fr-small",
+      "name": "tracks-35-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27152,7 +27152,7 @@
       ]
     },
     {
-      "name": "tracks-35-de-small",
+      "name": "tracks-35-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27177,7 +27177,7 @@
       ]
     },
     {
-      "name": "tracks-34-it-small",
+      "name": "tracks-34-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27202,7 +27202,7 @@
       ]
     },
     {
-      "name": "tracks-34-fr-small",
+      "name": "tracks-34-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27227,7 +27227,7 @@
       ]
     },
     {
-      "name": "tracks-34-de-small",
+      "name": "tracks-34-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27252,7 +27252,7 @@
       ]
     },
     {
-      "name": "tracks-33-it-small",
+      "name": "tracks-33-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27277,7 +27277,7 @@
       ]
     },
     {
-      "name": "tracks-33-fr-small",
+      "name": "tracks-33-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27302,7 +27302,7 @@
       ]
     },
     {
-      "name": "tracks-33-de-small",
+      "name": "tracks-33-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27327,7 +27327,7 @@
       ]
     },
     {
-      "name": "tracks-32-it-small",
+      "name": "tracks-32-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27352,7 +27352,7 @@
       ]
     },
     {
-      "name": "tracks-32-fr-small",
+      "name": "tracks-32-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27377,7 +27377,7 @@
       ]
     },
     {
-      "name": "tracks-32-de-small",
+      "name": "tracks-32-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27402,7 +27402,7 @@
       ]
     },
     {
-      "name": "tracks-31-it-small",
+      "name": "tracks-31-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27427,7 +27427,7 @@
       ]
     },
     {
-      "name": "tracks-31-fr-small",
+      "name": "tracks-31-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27452,7 +27452,7 @@
       ]
     },
     {
-      "name": "tracks-31-de-small",
+      "name": "tracks-31-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27477,7 +27477,7 @@
       ]
     },
     {
-      "name": "tracks-30-it-small",
+      "name": "tracks-30-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27502,7 +27502,7 @@
       ]
     },
     {
-      "name": "tracks-30-fr-small",
+      "name": "tracks-30-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27527,7 +27527,7 @@
       ]
     },
     {
-      "name": "tracks-30-de-small",
+      "name": "tracks-30-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27552,7 +27552,7 @@
       ]
     },
     {
-      "name": "tracks-29-it-small",
+      "name": "tracks-29-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27577,7 +27577,7 @@
       ]
     },
     {
-      "name": "tracks-29-fr-small",
+      "name": "tracks-29-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27602,7 +27602,7 @@
       ]
     },
     {
-      "name": "tracks-29-de-small",
+      "name": "tracks-29-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27627,7 +27627,7 @@
       ]
     },
     {
-      "name": "tracks-28-it-small",
+      "name": "tracks-28-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27652,7 +27652,7 @@
       ]
     },
     {
-      "name": "tracks-28-fr-small",
+      "name": "tracks-28-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27677,7 +27677,7 @@
       ]
     },
     {
-      "name": "tracks-28-de-small",
+      "name": "tracks-28-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27702,7 +27702,7 @@
       ]
     },
     {
-      "name": "tracks-27-it-small",
+      "name": "tracks-27-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27727,7 +27727,7 @@
       ]
     },
     {
-      "name": "tracks-27-fr-small",
+      "name": "tracks-27-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27752,7 +27752,7 @@
       ]
     },
     {
-      "name": "tracks-27-de-small",
+      "name": "tracks-27-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27777,7 +27777,7 @@
       ]
     },
     {
-      "name": "tracks-26-it-small",
+      "name": "tracks-26-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27802,7 +27802,7 @@
       ]
     },
     {
-      "name": "tracks-26-fr-small",
+      "name": "tracks-26-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27827,7 +27827,7 @@
       ]
     },
     {
-      "name": "tracks-26-de-small",
+      "name": "tracks-26-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27852,7 +27852,7 @@
       ]
     },
     {
-      "name": "tracks-25-it-small",
+      "name": "tracks-25-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27877,7 +27877,7 @@
       ]
     },
     {
-      "name": "tracks-25-fr-small",
+      "name": "tracks-25-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27902,7 +27902,7 @@
       ]
     },
     {
-      "name": "tracks-25-de-small",
+      "name": "tracks-25-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27927,7 +27927,7 @@
       ]
     },
     {
-      "name": "tracks-24-it-small",
+      "name": "tracks-24-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27952,7 +27952,7 @@
       ]
     },
     {
-      "name": "tracks-24-fr-small",
+      "name": "tracks-24-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -27977,7 +27977,7 @@
       ]
     },
     {
-      "name": "tracks-24-de-small",
+      "name": "tracks-24-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28002,7 +28002,7 @@
       ]
     },
     {
-      "name": "tracks-23-it-small",
+      "name": "tracks-23-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28027,7 +28027,7 @@
       ]
     },
     {
-      "name": "tracks-23-fr-small",
+      "name": "tracks-23-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28052,7 +28052,7 @@
       ]
     },
     {
-      "name": "tracks-23-de-small",
+      "name": "tracks-23-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28077,7 +28077,7 @@
       ]
     },
     {
-      "name": "tracks-22-it-small",
+      "name": "tracks-22-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28102,7 +28102,7 @@
       ]
     },
     {
-      "name": "tracks-22-fr-small",
+      "name": "tracks-22-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28127,7 +28127,7 @@
       ]
     },
     {
-      "name": "tracks-22-de-small",
+      "name": "tracks-22-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28152,7 +28152,7 @@
       ]
     },
     {
-      "name": "tracks-21-it-small",
+      "name": "tracks-21-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28177,7 +28177,7 @@
       ]
     },
     {
-      "name": "tracks-21-fr-small",
+      "name": "tracks-21-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28202,7 +28202,7 @@
       ]
     },
     {
-      "name": "tracks-21-de-small",
+      "name": "tracks-21-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28227,7 +28227,7 @@
       ]
     },
     {
-      "name": "tracks-20-it-small",
+      "name": "tracks-20-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28252,7 +28252,7 @@
       ]
     },
     {
-      "name": "tracks-20-fr-small",
+      "name": "tracks-20-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28277,7 +28277,7 @@
       ]
     },
     {
-      "name": "tracks-20-de-small",
+      "name": "tracks-20-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28302,7 +28302,7 @@
       ]
     },
     {
-      "name": "tracks-19-it-large",
+      "name": "tracks-19-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28327,7 +28327,7 @@
       ]
     },
     {
-      "name": "tracks-19-it-small",
+      "name": "tracks-19-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28352,7 +28352,7 @@
       ]
     },
     {
-      "name": "tracks-19-fr-large",
+      "name": "tracks-19-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28377,7 +28377,7 @@
       ]
     },
     {
-      "name": "tracks-19-fr-small",
+      "name": "tracks-19-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28402,7 +28402,7 @@
       ]
     },
     {
-      "name": "tracks-19-de-large",
+      "name": "tracks-19-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28427,7 +28427,7 @@
       ]
     },
     {
-      "name": "tracks-19-de-small",
+      "name": "tracks-19-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28452,7 +28452,7 @@
       ]
     },
     {
-      "name": "tracks-18-it-large",
+      "name": "tracks-18-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28477,7 +28477,7 @@
       ]
     },
     {
-      "name": "tracks-18-it-small",
+      "name": "tracks-18-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28502,7 +28502,7 @@
       ]
     },
     {
-      "name": "tracks-18-fr-large",
+      "name": "tracks-18-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28527,7 +28527,7 @@
       ]
     },
     {
-      "name": "tracks-18-fr-small",
+      "name": "tracks-18-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28552,7 +28552,7 @@
       ]
     },
     {
-      "name": "tracks-18-de-large",
+      "name": "tracks-18-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28577,7 +28577,7 @@
       ]
     },
     {
-      "name": "tracks-18-de-small",
+      "name": "tracks-18-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28602,7 +28602,7 @@
       ]
     },
     {
-      "name": "tracks-17-it-large",
+      "name": "tracks-17-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28627,7 +28627,7 @@
       ]
     },
     {
-      "name": "tracks-17-it-small",
+      "name": "tracks-17-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28652,7 +28652,7 @@
       ]
     },
     {
-      "name": "tracks-17-fr-large",
+      "name": "tracks-17-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28677,7 +28677,7 @@
       ]
     },
     {
-      "name": "tracks-17-fr-small",
+      "name": "tracks-17-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28702,7 +28702,7 @@
       ]
     },
     {
-      "name": "tracks-17-de-large",
+      "name": "tracks-17-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28727,7 +28727,7 @@
       ]
     },
     {
-      "name": "tracks-17-de-small",
+      "name": "tracks-17-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28752,7 +28752,7 @@
       ]
     },
     {
-      "name": "tracks-16-it-large",
+      "name": "tracks-16-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28777,7 +28777,7 @@
       ]
     },
     {
-      "name": "tracks-16-it-small",
+      "name": "tracks-16-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28802,7 +28802,7 @@
       ]
     },
     {
-      "name": "tracks-16-fr-large",
+      "name": "tracks-16-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28827,7 +28827,7 @@
       ]
     },
     {
-      "name": "tracks-16-fr-small",
+      "name": "tracks-16-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28852,7 +28852,7 @@
       ]
     },
     {
-      "name": "tracks-16-de-large",
+      "name": "tracks-16-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28877,7 +28877,7 @@
       ]
     },
     {
-      "name": "tracks-16-de-small",
+      "name": "tracks-16-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28902,7 +28902,7 @@
       ]
     },
     {
-      "name": "tracks-15-it-large",
+      "name": "tracks-15-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28927,7 +28927,7 @@
       ]
     },
     {
-      "name": "tracks-15-it-small",
+      "name": "tracks-15-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28952,7 +28952,7 @@
       ]
     },
     {
-      "name": "tracks-15-fr-large",
+      "name": "tracks-15-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -28977,7 +28977,7 @@
       ]
     },
     {
-      "name": "tracks-15-fr-small",
+      "name": "tracks-15-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29002,7 +29002,7 @@
       ]
     },
     {
-      "name": "tracks-15-de-large",
+      "name": "tracks-15-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29027,7 +29027,7 @@
       ]
     },
     {
-      "name": "tracks-15-de-small",
+      "name": "tracks-15-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29052,7 +29052,7 @@
       ]
     },
     {
-      "name": "tracks-14-it-large",
+      "name": "tracks-14-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29077,7 +29077,7 @@
       ]
     },
     {
-      "name": "tracks-14-it-small",
+      "name": "tracks-14-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29102,7 +29102,7 @@
       ]
     },
     {
-      "name": "tracks-14-fr-large",
+      "name": "tracks-14-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29127,7 +29127,7 @@
       ]
     },
     {
-      "name": "tracks-14-fr-small",
+      "name": "tracks-14-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29152,7 +29152,7 @@
       ]
     },
     {
-      "name": "tracks-14-de-large",
+      "name": "tracks-14-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29177,7 +29177,7 @@
       ]
     },
     {
-      "name": "tracks-14-de-small",
+      "name": "tracks-14-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29202,7 +29202,7 @@
       ]
     },
     {
-      "name": "tracks-13-it-large",
+      "name": "tracks-13-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29227,7 +29227,7 @@
       ]
     },
     {
-      "name": "tracks-13-it-small",
+      "name": "tracks-13-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29252,7 +29252,7 @@
       ]
     },
     {
-      "name": "tracks-13-fr-large",
+      "name": "tracks-13-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29277,7 +29277,7 @@
       ]
     },
     {
-      "name": "tracks-13-fr-small",
+      "name": "tracks-13-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29302,7 +29302,7 @@
       ]
     },
     {
-      "name": "tracks-13-de-large",
+      "name": "tracks-13-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29327,7 +29327,7 @@
       ]
     },
     {
-      "name": "tracks-13-de-small",
+      "name": "tracks-13-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29352,7 +29352,7 @@
       ]
     },
     {
-      "name": "tracks-12-it-large",
+      "name": "tracks-12-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29377,7 +29377,7 @@
       ]
     },
     {
-      "name": "tracks-12-it-small",
+      "name": "tracks-12-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29402,7 +29402,7 @@
       ]
     },
     {
-      "name": "tracks-12-fr-large",
+      "name": "tracks-12-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29427,7 +29427,7 @@
       ]
     },
     {
-      "name": "tracks-12-fr-small",
+      "name": "tracks-12-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29452,7 +29452,7 @@
       ]
     },
     {
-      "name": "tracks-12-de-large",
+      "name": "tracks-12-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29477,7 +29477,7 @@
       ]
     },
     {
-      "name": "tracks-12-de-small",
+      "name": "tracks-12-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29502,7 +29502,7 @@
       ]
     },
     {
-      "name": "tracks-11-it-large",
+      "name": "tracks-11-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29527,7 +29527,7 @@
       ]
     },
     {
-      "name": "tracks-11-it-small",
+      "name": "tracks-11-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29552,7 +29552,7 @@
       ]
     },
     {
-      "name": "tracks-11-fr-large",
+      "name": "tracks-11-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29577,7 +29577,7 @@
       ]
     },
     {
-      "name": "tracks-11-fr-small",
+      "name": "tracks-11-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29602,7 +29602,7 @@
       ]
     },
     {
-      "name": "tracks-11-de-large",
+      "name": "tracks-11-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29627,7 +29627,7 @@
       ]
     },
     {
-      "name": "tracks-11-de-small",
+      "name": "tracks-11-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29652,7 +29652,7 @@
       ]
     },
     {
-      "name": "tracks-10-it-large",
+      "name": "tracks-10-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29677,7 +29677,7 @@
       ]
     },
     {
-      "name": "tracks-10-it-small",
+      "name": "tracks-10-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29702,7 +29702,7 @@
       ]
     },
     {
-      "name": "tracks-10-fr-large",
+      "name": "tracks-10-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29727,7 +29727,7 @@
       ]
     },
     {
-      "name": "tracks-10-fr-small",
+      "name": "tracks-10-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29752,7 +29752,7 @@
       ]
     },
     {
-      "name": "tracks-10-de-large",
+      "name": "tracks-10-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29777,7 +29777,7 @@
       ]
     },
     {
-      "name": "tracks-10-de-small",
+      "name": "tracks-10-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29802,7 +29802,7 @@
       ]
     },
     {
-      "name": "tracks-9-it-large",
+      "name": "tracks-9-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29827,7 +29827,7 @@
       ]
     },
     {
-      "name": "tracks-9-it-small",
+      "name": "tracks-9-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29852,7 +29852,7 @@
       ]
     },
     {
-      "name": "tracks-9-fr-large",
+      "name": "tracks-9-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29877,7 +29877,7 @@
       ]
     },
     {
-      "name": "tracks-9-fr-small",
+      "name": "tracks-9-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29902,7 +29902,7 @@
       ]
     },
     {
-      "name": "tracks-9-de-large",
+      "name": "tracks-9-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29927,7 +29927,7 @@
       ]
     },
     {
-      "name": "tracks-9-de-small",
+      "name": "tracks-9-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29952,7 +29952,7 @@
       ]
     },
     {
-      "name": "tracks-8-it-large",
+      "name": "tracks-8-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29977,7 +29977,7 @@
       ]
     },
     {
-      "name": "tracks-8-it-small",
+      "name": "tracks-8-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30002,7 +30002,7 @@
       ]
     },
     {
-      "name": "tracks-8-fr-large",
+      "name": "tracks-8-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30027,7 +30027,7 @@
       ]
     },
     {
-      "name": "tracks-8-fr-small",
+      "name": "tracks-8-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30052,7 +30052,7 @@
       ]
     },
     {
-      "name": "tracks-8-de-large",
+      "name": "tracks-8-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30077,7 +30077,7 @@
       ]
     },
     {
-      "name": "tracks-8-de-small",
+      "name": "tracks-8-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30102,7 +30102,7 @@
       ]
     },
     {
-      "name": "tracks-7-it-large",
+      "name": "tracks-7-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30127,7 +30127,7 @@
       ]
     },
     {
-      "name": "tracks-7-it-small",
+      "name": "tracks-7-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30152,7 +30152,7 @@
       ]
     },
     {
-      "name": "tracks-7-fr-large",
+      "name": "tracks-7-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30177,7 +30177,7 @@
       ]
     },
     {
-      "name": "tracks-7-fr-small",
+      "name": "tracks-7-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30202,7 +30202,7 @@
       ]
     },
     {
-      "name": "tracks-7-de-large",
+      "name": "tracks-7-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30227,7 +30227,7 @@
       ]
     },
     {
-      "name": "tracks-7-de-small",
+      "name": "tracks-7-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30252,7 +30252,7 @@
       ]
     },
     {
-      "name": "tracks-6-it-large",
+      "name": "tracks-6-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30277,7 +30277,7 @@
       ]
     },
     {
-      "name": "tracks-6-it-small",
+      "name": "tracks-6-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30302,7 +30302,7 @@
       ]
     },
     {
-      "name": "tracks-6-fr-large",
+      "name": "tracks-6-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30327,7 +30327,7 @@
       ]
     },
     {
-      "name": "tracks-6-fr-small",
+      "name": "tracks-6-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30352,7 +30352,7 @@
       ]
     },
     {
-      "name": "tracks-6-de-large",
+      "name": "tracks-6-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30377,7 +30377,7 @@
       ]
     },
     {
-      "name": "tracks-6-de-small",
+      "name": "tracks-6-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30402,7 +30402,7 @@
       ]
     },
     {
-      "name": "tracks-5-it-large",
+      "name": "tracks-5-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30427,7 +30427,7 @@
       ]
     },
     {
-      "name": "tracks-5-it-small",
+      "name": "tracks-5-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30452,7 +30452,7 @@
       ]
     },
     {
-      "name": "tracks-5-fr-large",
+      "name": "tracks-5-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30477,7 +30477,7 @@
       ]
     },
     {
-      "name": "tracks-5-fr-small",
+      "name": "tracks-5-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30502,7 +30502,7 @@
       ]
     },
     {
-      "name": "tracks-5-de-large",
+      "name": "tracks-5-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30527,7 +30527,7 @@
       ]
     },
     {
-      "name": "tracks-5-de-small",
+      "name": "tracks-5-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30552,7 +30552,7 @@
       ]
     },
     {
-      "name": "tracks-4-it-large",
+      "name": "tracks-4-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30577,7 +30577,7 @@
       ]
     },
     {
-      "name": "tracks-4-it-small",
+      "name": "tracks-4-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30602,7 +30602,7 @@
       ]
     },
     {
-      "name": "tracks-4-fr-large",
+      "name": "tracks-4-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30627,7 +30627,7 @@
       ]
     },
     {
-      "name": "tracks-4-fr-small",
+      "name": "tracks-4-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30652,7 +30652,7 @@
       ]
     },
     {
-      "name": "tracks-4-de-large",
+      "name": "tracks-4-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30677,7 +30677,7 @@
       ]
     },
     {
-      "name": "tracks-4-de-small",
+      "name": "tracks-4-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30702,7 +30702,7 @@
       ]
     },
     {
-      "name": "tracks-3-it-large",
+      "name": "tracks-3-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30727,7 +30727,7 @@
       ]
     },
     {
-      "name": "tracks-3-it-small",
+      "name": "tracks-3-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30752,7 +30752,7 @@
       ]
     },
     {
-      "name": "tracks-3-fr-large",
+      "name": "tracks-3-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30777,7 +30777,7 @@
       ]
     },
     {
-      "name": "tracks-3-fr-small",
+      "name": "tracks-3-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30802,7 +30802,7 @@
       ]
     },
     {
-      "name": "tracks-3-de-large",
+      "name": "tracks-3-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30827,7 +30827,7 @@
       ]
     },
     {
-      "name": "tracks-3-de-small",
+      "name": "tracks-3-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30852,7 +30852,7 @@
       ]
     },
     {
-      "name": "tracks-2-it-large",
+      "name": "tracks-2-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30877,7 +30877,7 @@
       ]
     },
     {
-      "name": "tracks-2-it-small",
+      "name": "tracks-2-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30902,7 +30902,7 @@
       ]
     },
     {
-      "name": "tracks-2-fr-large",
+      "name": "tracks-2-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30927,7 +30927,7 @@
       ]
     },
     {
-      "name": "tracks-2-fr-small",
+      "name": "tracks-2-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30952,7 +30952,7 @@
       ]
     },
     {
-      "name": "tracks-2-de-large",
+      "name": "tracks-2-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -30977,7 +30977,7 @@
       ]
     },
     {
-      "name": "tracks-2-de-small",
+      "name": "tracks-2-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31002,7 +31002,7 @@
       ]
     },
     {
-      "name": "tracks-1-it-large",
+      "name": "tracks-1-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31027,7 +31027,7 @@
       ]
     },
     {
-      "name": "tracks-1-it-small",
+      "name": "tracks-1-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31052,7 +31052,7 @@
       ]
     },
     {
-      "name": "tracks-1-fr-large",
+      "name": "tracks-1-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31077,7 +31077,7 @@
       ]
     },
     {
-      "name": "tracks-1-fr-small",
+      "name": "tracks-1-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31102,7 +31102,7 @@
       ]
     },
     {
-      "name": "tracks-1-de-large",
+      "name": "tracks-1-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31127,7 +31127,7 @@
       ]
     },
     {
-      "name": "tracks-1-de-small",
+      "name": "tracks-1-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31152,7 +31152,7 @@
       ]
     },
     {
-      "name": "tracks-0-it-large",
+      "name": "tracks-0-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31177,7 +31177,7 @@
       ]
     },
     {
-      "name": "tracks-0-it-small",
+      "name": "tracks-0-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31202,7 +31202,7 @@
       ]
     },
     {
-      "name": "tracks-0-fr-large",
+      "name": "tracks-0-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31227,7 +31227,7 @@
       ]
     },
     {
-      "name": "tracks-0-fr-small",
+      "name": "tracks-0-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31252,7 +31252,7 @@
       ]
     },
     {
-      "name": "tracks-0-de-large",
+      "name": "tracks-0-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31277,7 +31277,7 @@
       ]
     },
     {
-      "name": "tracks-0-de-small",
+      "name": "tracks-0-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31302,7 +31302,7 @@
       ]
     },
     {
-      "name": "sectors-j-it-large",
+      "name": "sectors-j-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31327,7 +31327,7 @@
       ]
     },
     {
-      "name": "sectors-j-it-small",
+      "name": "sectors-j-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31352,7 +31352,7 @@
       ]
     },
     {
-      "name": "sectors-j-fr-large",
+      "name": "sectors-j-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31377,7 +31377,7 @@
       ]
     },
     {
-      "name": "sectors-j-fr-small",
+      "name": "sectors-j-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31402,7 +31402,7 @@
       ]
     },
     {
-      "name": "sectors-j-de-large",
+      "name": "sectors-j-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31427,7 +31427,7 @@
       ]
     },
     {
-      "name": "sectors-j-de-small",
+      "name": "sectors-j-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31452,7 +31452,7 @@
       ]
     },
     {
-      "name": "sectors-h-it-large",
+      "name": "sectors-h-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31477,7 +31477,7 @@
       ]
     },
     {
-      "name": "sectors-h-it-small",
+      "name": "sectors-h-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31502,7 +31502,7 @@
       ]
     },
     {
-      "name": "sectors-h-fr-large",
+      "name": "sectors-h-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31527,7 +31527,7 @@
       ]
     },
     {
-      "name": "sectors-h-fr-small",
+      "name": "sectors-h-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31552,7 +31552,7 @@
       ]
     },
     {
-      "name": "sectors-h-de-large",
+      "name": "sectors-h-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31577,7 +31577,7 @@
       ]
     },
     {
-      "name": "sectors-h-de-small",
+      "name": "sectors-h-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31602,7 +31602,7 @@
       ]
     },
     {
-      "name": "sectors-g-it-large",
+      "name": "sectors-g-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31627,7 +31627,7 @@
       ]
     },
     {
-      "name": "sectors-g-it-small",
+      "name": "sectors-g-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31652,7 +31652,7 @@
       ]
     },
     {
-      "name": "sectors-g-fr-large",
+      "name": "sectors-g-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31677,7 +31677,7 @@
       ]
     },
     {
-      "name": "sectors-g-fr-small",
+      "name": "sectors-g-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31702,7 +31702,7 @@
       ]
     },
     {
-      "name": "sectors-g-de-large",
+      "name": "sectors-g-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31727,7 +31727,7 @@
       ]
     },
     {
-      "name": "sectors-g-de-small",
+      "name": "sectors-g-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31752,7 +31752,7 @@
       ]
     },
     {
-      "name": "sectors-f-it-large",
+      "name": "sectors-f-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31777,7 +31777,7 @@
       ]
     },
     {
-      "name": "sectors-f-it-small",
+      "name": "sectors-f-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31802,7 +31802,7 @@
       ]
     },
     {
-      "name": "sectors-f-fr-large",
+      "name": "sectors-f-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31827,7 +31827,7 @@
       ]
     },
     {
-      "name": "sectors-f-fr-small",
+      "name": "sectors-f-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31852,7 +31852,7 @@
       ]
     },
     {
-      "name": "sectors-f-de-large",
+      "name": "sectors-f-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31877,7 +31877,7 @@
       ]
     },
     {
-      "name": "sectors-f-de-small",
+      "name": "sectors-f-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31902,7 +31902,7 @@
       ]
     },
     {
-      "name": "sectors-e-it-large",
+      "name": "sectors-e-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31927,7 +31927,7 @@
       ]
     },
     {
-      "name": "sectors-e-it-small",
+      "name": "sectors-e-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31952,7 +31952,7 @@
       ]
     },
     {
-      "name": "sectors-e-fr-large",
+      "name": "sectors-e-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -31977,7 +31977,7 @@
       ]
     },
     {
-      "name": "sectors-e-fr-small",
+      "name": "sectors-e-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32002,7 +32002,7 @@
       ]
     },
     {
-      "name": "sectors-e-de-large",
+      "name": "sectors-e-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32027,7 +32027,7 @@
       ]
     },
     {
-      "name": "sectors-e-de-small",
+      "name": "sectors-e-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32052,7 +32052,7 @@
       ]
     },
     {
-      "name": "sectors-d-it-large",
+      "name": "sectors-d-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32077,7 +32077,7 @@
       ]
     },
     {
-      "name": "sectors-d-it-small",
+      "name": "sectors-d-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32102,7 +32102,7 @@
       ]
     },
     {
-      "name": "sectors-d-fr-large",
+      "name": "sectors-d-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32127,7 +32127,7 @@
       ]
     },
     {
-      "name": "sectors-d-fr-small",
+      "name": "sectors-d-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32152,7 +32152,7 @@
       ]
     },
     {
-      "name": "sectors-d-de-large",
+      "name": "sectors-d-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32177,7 +32177,7 @@
       ]
     },
     {
-      "name": "sectors-d-de-small",
+      "name": "sectors-d-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32202,7 +32202,7 @@
       ]
     },
     {
-      "name": "sectors-c-it-large",
+      "name": "sectors-c-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32227,7 +32227,7 @@
       ]
     },
     {
-      "name": "sectors-c-it-small",
+      "name": "sectors-c-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32252,7 +32252,7 @@
       ]
     },
     {
-      "name": "sectors-c-fr-large",
+      "name": "sectors-c-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32277,7 +32277,7 @@
       ]
     },
     {
-      "name": "sectors-c-fr-small",
+      "name": "sectors-c-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32302,7 +32302,7 @@
       ]
     },
     {
-      "name": "sectors-c-de-large",
+      "name": "sectors-c-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32327,7 +32327,7 @@
       ]
     },
     {
-      "name": "sectors-c-de-small",
+      "name": "sectors-c-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32352,7 +32352,7 @@
       ]
     },
     {
-      "name": "sectors-b-it-large",
+      "name": "sectors-b-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32377,7 +32377,7 @@
       ]
     },
     {
-      "name": "sectors-b-it-small",
+      "name": "sectors-b-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32402,7 +32402,7 @@
       ]
     },
     {
-      "name": "sectors-b-fr-large",
+      "name": "sectors-b-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32427,7 +32427,7 @@
       ]
     },
     {
-      "name": "sectors-b-fr-small",
+      "name": "sectors-b-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32452,7 +32452,7 @@
       ]
     },
     {
-      "name": "sectors-b-de-large",
+      "name": "sectors-b-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32477,7 +32477,7 @@
       ]
     },
     {
-      "name": "sectors-b-de-small",
+      "name": "sectors-b-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32502,7 +32502,7 @@
       ]
     },
     {
-      "name": "sectors-a-it-large",
+      "name": "sectors-a-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32527,7 +32527,7 @@
       ]
     },
     {
-      "name": "sectors-a-it-small",
+      "name": "sectors-a-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32552,7 +32552,7 @@
       ]
     },
     {
-      "name": "sectors-a-fr-large",
+      "name": "sectors-a-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32577,7 +32577,7 @@
       ]
     },
     {
-      "name": "sectors-a-fr-small",
+      "name": "sectors-a-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32602,7 +32602,7 @@
       ]
     },
     {
-      "name": "sectors-a-de-large",
+      "name": "sectors-a-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32627,7 +32627,7 @@
       ]
     },
     {
-      "name": "sectors-a-de-small",
+      "name": "sectors-a-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32652,7 +32652,7 @@
       ]
     },
     {
-      "name": "stands-z-en-large",
+      "name": "stands-z-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32677,7 +32677,7 @@
       ]
     },
     {
-      "name": "stands-z-en-small",
+      "name": "stands-z-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32702,7 +32702,7 @@
       ]
     },
     {
-      "name": "stands-z-it-large",
+      "name": "stands-z-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32727,7 +32727,7 @@
       ]
     },
     {
-      "name": "stands-z-it-small",
+      "name": "stands-z-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32752,7 +32752,7 @@
       ]
     },
     {
-      "name": "stands-z-fr-large",
+      "name": "stands-z-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32777,7 +32777,7 @@
       ]
     },
     {
-      "name": "stands-z-fr-small",
+      "name": "stands-z-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32802,7 +32802,7 @@
       ]
     },
     {
-      "name": "stands-z-de-large",
+      "name": "stands-z-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32827,7 +32827,7 @@
       ]
     },
     {
-      "name": "stands-z-de-small",
+      "name": "stands-z-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32852,7 +32852,7 @@
       ]
     },
     {
-      "name": "stands-y-en-large",
+      "name": "stands-y-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32877,7 +32877,7 @@
       ]
     },
     {
-      "name": "stands-y-en-small",
+      "name": "stands-y-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32902,7 +32902,7 @@
       ]
     },
     {
-      "name": "stands-y-it-large",
+      "name": "stands-y-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32927,7 +32927,7 @@
       ]
     },
     {
-      "name": "stands-y-it-small",
+      "name": "stands-y-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32952,7 +32952,7 @@
       ]
     },
     {
-      "name": "stands-y-fr-large",
+      "name": "stands-y-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -32977,7 +32977,7 @@
       ]
     },
     {
-      "name": "stands-y-fr-small",
+      "name": "stands-y-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33002,7 +33002,7 @@
       ]
     },
     {
-      "name": "stands-y-de-large",
+      "name": "stands-y-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33027,7 +33027,7 @@
       ]
     },
     {
-      "name": "stands-y-de-small",
+      "name": "stands-y-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33052,7 +33052,7 @@
       ]
     },
     {
-      "name": "stands-x-en-large",
+      "name": "stands-x-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33077,7 +33077,7 @@
       ]
     },
     {
-      "name": "stands-x-en-small",
+      "name": "stands-x-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33102,7 +33102,7 @@
       ]
     },
     {
-      "name": "stands-x-it-large",
+      "name": "stands-x-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33127,7 +33127,7 @@
       ]
     },
     {
-      "name": "stands-x-it-small",
+      "name": "stands-x-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33152,7 +33152,7 @@
       ]
     },
     {
-      "name": "stands-x-fr-large",
+      "name": "stands-x-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33177,7 +33177,7 @@
       ]
     },
     {
-      "name": "stands-x-fr-small",
+      "name": "stands-x-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33202,7 +33202,7 @@
       ]
     },
     {
-      "name": "stands-x-de-large",
+      "name": "stands-x-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33227,7 +33227,7 @@
       ]
     },
     {
-      "name": "stands-x-de-small",
+      "name": "stands-x-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33252,7 +33252,7 @@
       ]
     },
     {
-      "name": "stands-w-en-large",
+      "name": "stands-w-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33277,7 +33277,7 @@
       ]
     },
     {
-      "name": "stands-w-en-small",
+      "name": "stands-w-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33302,7 +33302,7 @@
       ]
     },
     {
-      "name": "stands-w-it-large",
+      "name": "stands-w-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33327,7 +33327,7 @@
       ]
     },
     {
-      "name": "stands-w-it-small",
+      "name": "stands-w-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33352,7 +33352,7 @@
       ]
     },
     {
-      "name": "stands-w-fr-large",
+      "name": "stands-w-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33377,7 +33377,7 @@
       ]
     },
     {
-      "name": "stands-w-fr-small",
+      "name": "stands-w-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33402,7 +33402,7 @@
       ]
     },
     {
-      "name": "stands-w-de-large",
+      "name": "stands-w-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33427,7 +33427,7 @@
       ]
     },
     {
-      "name": "stands-w-de-small",
+      "name": "stands-w-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33452,7 +33452,7 @@
       ]
     },
     {
-      "name": "stands-v-en-large",
+      "name": "stands-v-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33477,7 +33477,7 @@
       ]
     },
     {
-      "name": "stands-v-en-small",
+      "name": "stands-v-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33502,7 +33502,7 @@
       ]
     },
     {
-      "name": "stands-v-it-large",
+      "name": "stands-v-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33527,7 +33527,7 @@
       ]
     },
     {
-      "name": "stands-v-it-small",
+      "name": "stands-v-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33552,7 +33552,7 @@
       ]
     },
     {
-      "name": "stands-v-fr-large",
+      "name": "stands-v-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33577,7 +33577,7 @@
       ]
     },
     {
-      "name": "stands-v-fr-small",
+      "name": "stands-v-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33602,7 +33602,7 @@
       ]
     },
     {
-      "name": "stands-v-de-large",
+      "name": "stands-v-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33627,7 +33627,7 @@
       ]
     },
     {
-      "name": "stands-v-de-small",
+      "name": "stands-v-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33652,7 +33652,7 @@
       ]
     },
     {
-      "name": "stands-u-en-large",
+      "name": "stands-u-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33677,7 +33677,7 @@
       ]
     },
     {
-      "name": "stands-u-en-small",
+      "name": "stands-u-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33702,7 +33702,7 @@
       ]
     },
     {
-      "name": "stands-u-it-large",
+      "name": "stands-u-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33727,7 +33727,7 @@
       ]
     },
     {
-      "name": "stands-u-it-small",
+      "name": "stands-u-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33752,7 +33752,7 @@
       ]
     },
     {
-      "name": "stands-u-fr-large",
+      "name": "stands-u-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33777,7 +33777,7 @@
       ]
     },
     {
-      "name": "stands-u-fr-small",
+      "name": "stands-u-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33802,7 +33802,7 @@
       ]
     },
     {
-      "name": "stands-u-de-large",
+      "name": "stands-u-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33827,7 +33827,7 @@
       ]
     },
     {
-      "name": "stands-u-de-small",
+      "name": "stands-u-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33852,7 +33852,7 @@
       ]
     },
     {
-      "name": "stands-t-en-large",
+      "name": "stands-t-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33877,7 +33877,7 @@
       ]
     },
     {
-      "name": "stands-t-en-small",
+      "name": "stands-t-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33902,7 +33902,7 @@
       ]
     },
     {
-      "name": "stands-t-it-large",
+      "name": "stands-t-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33927,7 +33927,7 @@
       ]
     },
     {
-      "name": "stands-t-it-small",
+      "name": "stands-t-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33952,7 +33952,7 @@
       ]
     },
     {
-      "name": "stands-t-fr-large",
+      "name": "stands-t-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -33977,7 +33977,7 @@
       ]
     },
     {
-      "name": "stands-t-fr-small",
+      "name": "stands-t-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34002,7 +34002,7 @@
       ]
     },
     {
-      "name": "stands-t-de-large",
+      "name": "stands-t-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34027,7 +34027,7 @@
       ]
     },
     {
-      "name": "stands-t-de-small",
+      "name": "stands-t-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34052,7 +34052,7 @@
       ]
     },
     {
-      "name": "stands-s-en-large",
+      "name": "stands-s-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34077,7 +34077,7 @@
       ]
     },
     {
-      "name": "stands-s-en-small",
+      "name": "stands-s-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34102,7 +34102,7 @@
       ]
     },
     {
-      "name": "stands-s-it-large",
+      "name": "stands-s-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34127,7 +34127,7 @@
       ]
     },
     {
-      "name": "stands-s-it-small",
+      "name": "stands-s-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34152,7 +34152,7 @@
       ]
     },
     {
-      "name": "stands-s-fr-large",
+      "name": "stands-s-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34177,7 +34177,7 @@
       ]
     },
     {
-      "name": "stands-s-fr-small",
+      "name": "stands-s-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34202,7 +34202,7 @@
       ]
     },
     {
-      "name": "stands-s-de-large",
+      "name": "stands-s-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34227,7 +34227,7 @@
       ]
     },
     {
-      "name": "stands-s-de-small",
+      "name": "stands-s-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34252,7 +34252,7 @@
       ]
     },
     {
-      "name": "stands-r-en-large",
+      "name": "stands-r-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34277,7 +34277,7 @@
       ]
     },
     {
-      "name": "stands-r-en-small",
+      "name": "stands-r-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34302,7 +34302,7 @@
       ]
     },
     {
-      "name": "stands-r-it-large",
+      "name": "stands-r-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34327,7 +34327,7 @@
       ]
     },
     {
-      "name": "stands-r-it-small",
+      "name": "stands-r-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34352,7 +34352,7 @@
       ]
     },
     {
-      "name": "stands-r-fr-large",
+      "name": "stands-r-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34377,7 +34377,7 @@
       ]
     },
     {
-      "name": "stands-r-fr-small",
+      "name": "stands-r-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34402,7 +34402,7 @@
       ]
     },
     {
-      "name": "stands-r-de-large",
+      "name": "stands-r-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34427,7 +34427,7 @@
       ]
     },
     {
-      "name": "stands-r-de-small",
+      "name": "stands-r-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34452,7 +34452,7 @@
       ]
     },
     {
-      "name": "stands-q-en-large",
+      "name": "stands-q-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34477,7 +34477,7 @@
       ]
     },
     {
-      "name": "stands-q-en-small",
+      "name": "stands-q-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34502,7 +34502,7 @@
       ]
     },
     {
-      "name": "stands-q-it-large",
+      "name": "stands-q-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34527,7 +34527,7 @@
       ]
     },
     {
-      "name": "stands-q-it-small",
+      "name": "stands-q-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34552,7 +34552,7 @@
       ]
     },
     {
-      "name": "stands-q-fr-large",
+      "name": "stands-q-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34577,7 +34577,7 @@
       ]
     },
     {
-      "name": "stands-q-fr-small",
+      "name": "stands-q-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34602,7 +34602,7 @@
       ]
     },
     {
-      "name": "stands-q-de-large",
+      "name": "stands-q-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34627,7 +34627,7 @@
       ]
     },
     {
-      "name": "stands-q-de-small",
+      "name": "stands-q-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34652,7 +34652,7 @@
       ]
     },
     {
-      "name": "stands-p-en-large",
+      "name": "stands-p-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34677,7 +34677,7 @@
       ]
     },
     {
-      "name": "stands-p-en-small",
+      "name": "stands-p-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34702,7 +34702,7 @@
       ]
     },
     {
-      "name": "stands-p-it-large",
+      "name": "stands-p-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34727,7 +34727,7 @@
       ]
     },
     {
-      "name": "stands-p-it-small",
+      "name": "stands-p-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34752,7 +34752,7 @@
       ]
     },
     {
-      "name": "stands-p-fr-large",
+      "name": "stands-p-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34777,7 +34777,7 @@
       ]
     },
     {
-      "name": "stands-p-fr-small",
+      "name": "stands-p-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34802,7 +34802,7 @@
       ]
     },
     {
-      "name": "stands-p-de-large",
+      "name": "stands-p-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34827,7 +34827,7 @@
       ]
     },
     {
-      "name": "stands-p-de-small",
+      "name": "stands-p-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34852,7 +34852,7 @@
       ]
     },
     {
-      "name": "stands-o-en-large",
+      "name": "stands-o-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34877,7 +34877,7 @@
       ]
     },
     {
-      "name": "stands-o-en-small",
+      "name": "stands-o-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34902,7 +34902,7 @@
       ]
     },
     {
-      "name": "stands-o-it-large",
+      "name": "stands-o-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34927,7 +34927,7 @@
       ]
     },
     {
-      "name": "stands-o-it-small",
+      "name": "stands-o-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34952,7 +34952,7 @@
       ]
     },
     {
-      "name": "stands-o-fr-large",
+      "name": "stands-o-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -34977,7 +34977,7 @@
       ]
     },
     {
-      "name": "stands-o-fr-small",
+      "name": "stands-o-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35002,7 +35002,7 @@
       ]
     },
     {
-      "name": "stands-o-de-large",
+      "name": "stands-o-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35027,7 +35027,7 @@
       ]
     },
     {
-      "name": "stands-o-de-small",
+      "name": "stands-o-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35052,7 +35052,7 @@
       ]
     },
     {
-      "name": "stands-n-en-large",
+      "name": "stands-n-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35077,7 +35077,7 @@
       ]
     },
     {
-      "name": "stands-n-en-small",
+      "name": "stands-n-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35102,7 +35102,7 @@
       ]
     },
     {
-      "name": "stands-n-it-large",
+      "name": "stands-n-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35127,7 +35127,7 @@
       ]
     },
     {
-      "name": "stands-n-it-small",
+      "name": "stands-n-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35152,7 +35152,7 @@
       ]
     },
     {
-      "name": "stands-n-fr-large",
+      "name": "stands-n-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35177,7 +35177,7 @@
       ]
     },
     {
-      "name": "stands-n-fr-small",
+      "name": "stands-n-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35202,7 +35202,7 @@
       ]
     },
     {
-      "name": "stands-n-de-large",
+      "name": "stands-n-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35227,7 +35227,7 @@
       ]
     },
     {
-      "name": "stands-n-de-small",
+      "name": "stands-n-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35252,7 +35252,7 @@
       ]
     },
     {
-      "name": "stands-m-en-large",
+      "name": "stands-m-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35277,7 +35277,7 @@
       ]
     },
     {
-      "name": "stands-m-en-small",
+      "name": "stands-m-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35302,7 +35302,7 @@
       ]
     },
     {
-      "name": "stands-m-it-large",
+      "name": "stands-m-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35327,7 +35327,7 @@
       ]
     },
     {
-      "name": "stands-m-it-small",
+      "name": "stands-m-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35352,7 +35352,7 @@
       ]
     },
     {
-      "name": "stands-m-fr-large",
+      "name": "stands-m-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35377,7 +35377,7 @@
       ]
     },
     {
-      "name": "stands-m-fr-small",
+      "name": "stands-m-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35402,7 +35402,7 @@
       ]
     },
     {
-      "name": "stands-m-de-large",
+      "name": "stands-m-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35427,7 +35427,7 @@
       ]
     },
     {
-      "name": "stands-m-de-small",
+      "name": "stands-m-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35452,7 +35452,7 @@
       ]
     },
     {
-      "name": "stands-l-en-large",
+      "name": "stands-l-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35477,7 +35477,7 @@
       ]
     },
     {
-      "name": "stands-l-en-small",
+      "name": "stands-l-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35502,7 +35502,7 @@
       ]
     },
     {
-      "name": "stands-l-it-large",
+      "name": "stands-l-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35527,7 +35527,7 @@
       ]
     },
     {
-      "name": "stands-l-it-small",
+      "name": "stands-l-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35552,7 +35552,7 @@
       ]
     },
     {
-      "name": "stands-l-fr-large",
+      "name": "stands-l-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35577,7 +35577,7 @@
       ]
     },
     {
-      "name": "stands-l-fr-small",
+      "name": "stands-l-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35602,7 +35602,7 @@
       ]
     },
     {
-      "name": "stands-l-de-large",
+      "name": "stands-l-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35627,7 +35627,7 @@
       ]
     },
     {
-      "name": "stands-l-de-small",
+      "name": "stands-l-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35652,7 +35652,7 @@
       ]
     },
     {
-      "name": "stands-k-en-large",
+      "name": "stands-k-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35677,7 +35677,7 @@
       ]
     },
     {
-      "name": "stands-k-en-small",
+      "name": "stands-k-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35702,7 +35702,7 @@
       ]
     },
     {
-      "name": "stands-k-it-large",
+      "name": "stands-k-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35727,7 +35727,7 @@
       ]
     },
     {
-      "name": "stands-k-it-small",
+      "name": "stands-k-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35752,7 +35752,7 @@
       ]
     },
     {
-      "name": "stands-k-fr-large",
+      "name": "stands-k-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35777,7 +35777,7 @@
       ]
     },
     {
-      "name": "stands-k-fr-small",
+      "name": "stands-k-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35802,7 +35802,7 @@
       ]
     },
     {
-      "name": "stands-k-de-large",
+      "name": "stands-k-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35827,7 +35827,7 @@
       ]
     },
     {
-      "name": "stands-k-de-small",
+      "name": "stands-k-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35852,7 +35852,7 @@
       ]
     },
     {
-      "name": "stands-j-en-large",
+      "name": "stands-j-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35877,7 +35877,7 @@
       ]
     },
     {
-      "name": "stands-j-en-small",
+      "name": "stands-j-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35902,7 +35902,7 @@
       ]
     },
     {
-      "name": "stands-j-it-large",
+      "name": "stands-j-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35927,7 +35927,7 @@
       ]
     },
     {
-      "name": "stands-j-it-small",
+      "name": "stands-j-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35952,7 +35952,7 @@
       ]
     },
     {
-      "name": "stands-j-fr-large",
+      "name": "stands-j-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -35977,7 +35977,7 @@
       ]
     },
     {
-      "name": "stands-j-fr-small",
+      "name": "stands-j-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36002,7 +36002,7 @@
       ]
     },
     {
-      "name": "stands-j-de-large",
+      "name": "stands-j-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36027,7 +36027,7 @@
       ]
     },
     {
-      "name": "stands-j-de-small",
+      "name": "stands-j-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36052,7 +36052,7 @@
       ]
     },
     {
-      "name": "stands-i-en-large",
+      "name": "stands-i-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36077,7 +36077,7 @@
       ]
     },
     {
-      "name": "stands-i-en-small",
+      "name": "stands-i-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36102,7 +36102,7 @@
       ]
     },
     {
-      "name": "stands-i-it-large",
+      "name": "stands-i-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36127,7 +36127,7 @@
       ]
     },
     {
-      "name": "stands-i-it-small",
+      "name": "stands-i-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36152,7 +36152,7 @@
       ]
     },
     {
-      "name": "stands-i-fr-large",
+      "name": "stands-i-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36177,7 +36177,7 @@
       ]
     },
     {
-      "name": "stands-i-fr-small",
+      "name": "stands-i-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36202,7 +36202,7 @@
       ]
     },
     {
-      "name": "stands-i-de-large",
+      "name": "stands-i-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36227,7 +36227,7 @@
       ]
     },
     {
-      "name": "stands-i-de-small",
+      "name": "stands-i-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36252,7 +36252,7 @@
       ]
     },
     {
-      "name": "stands-h-en-large",
+      "name": "stands-h-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36277,7 +36277,7 @@
       ]
     },
     {
-      "name": "stands-h-en-small",
+      "name": "stands-h-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36302,7 +36302,7 @@
       ]
     },
     {
-      "name": "stands-h-it-large",
+      "name": "stands-h-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36327,7 +36327,7 @@
       ]
     },
     {
-      "name": "stands-h-it-small",
+      "name": "stands-h-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36352,7 +36352,7 @@
       ]
     },
     {
-      "name": "stands-h-fr-large",
+      "name": "stands-h-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36377,7 +36377,7 @@
       ]
     },
     {
-      "name": "stands-h-fr-small",
+      "name": "stands-h-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36402,7 +36402,7 @@
       ]
     },
     {
-      "name": "stands-h-de-large",
+      "name": "stands-h-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36427,7 +36427,7 @@
       ]
     },
     {
-      "name": "stands-h-de-small",
+      "name": "stands-h-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36452,7 +36452,7 @@
       ]
     },
     {
-      "name": "stands-g-en-large",
+      "name": "stands-g-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36477,7 +36477,7 @@
       ]
     },
     {
-      "name": "stands-g-en-small",
+      "name": "stands-g-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36502,7 +36502,7 @@
       ]
     },
     {
-      "name": "stands-g-it-large",
+      "name": "stands-g-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36527,7 +36527,7 @@
       ]
     },
     {
-      "name": "stands-g-it-small",
+      "name": "stands-g-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36552,7 +36552,7 @@
       ]
     },
     {
-      "name": "stands-g-fr-large",
+      "name": "stands-g-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36577,7 +36577,7 @@
       ]
     },
     {
-      "name": "stands-g-fr-small",
+      "name": "stands-g-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36602,7 +36602,7 @@
       ]
     },
     {
-      "name": "stands-g-de-large",
+      "name": "stands-g-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36627,7 +36627,7 @@
       ]
     },
     {
-      "name": "stands-g-de-small",
+      "name": "stands-g-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36652,7 +36652,7 @@
       ]
     },
     {
-      "name": "stands-f-en-large",
+      "name": "stands-f-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36677,7 +36677,7 @@
       ]
     },
     {
-      "name": "stands-f-en-small",
+      "name": "stands-f-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36702,7 +36702,7 @@
       ]
     },
     {
-      "name": "stands-f-it-large",
+      "name": "stands-f-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36727,7 +36727,7 @@
       ]
     },
     {
-      "name": "stands-f-it-small",
+      "name": "stands-f-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36752,7 +36752,7 @@
       ]
     },
     {
-      "name": "stands-f-fr-large",
+      "name": "stands-f-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36777,7 +36777,7 @@
       ]
     },
     {
-      "name": "stands-f-fr-small",
+      "name": "stands-f-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36802,7 +36802,7 @@
       ]
     },
     {
-      "name": "stands-f-de-large",
+      "name": "stands-f-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36827,7 +36827,7 @@
       ]
     },
     {
-      "name": "stands-f-de-small",
+      "name": "stands-f-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36852,7 +36852,7 @@
       ]
     },
     {
-      "name": "stands-e-en-large",
+      "name": "stands-e-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36877,7 +36877,7 @@
       ]
     },
     {
-      "name": "stands-e-en-small",
+      "name": "stands-e-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36902,7 +36902,7 @@
       ]
     },
     {
-      "name": "stands-e-it-large",
+      "name": "stands-e-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36927,7 +36927,7 @@
       ]
     },
     {
-      "name": "stands-e-it-small",
+      "name": "stands-e-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36952,7 +36952,7 @@
       ]
     },
     {
-      "name": "stands-e-fr-large",
+      "name": "stands-e-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -36977,7 +36977,7 @@
       ]
     },
     {
-      "name": "stands-e-fr-small",
+      "name": "stands-e-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37002,7 +37002,7 @@
       ]
     },
     {
-      "name": "stands-e-de-large",
+      "name": "stands-e-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37027,7 +37027,7 @@
       ]
     },
     {
-      "name": "stands-e-de-small",
+      "name": "stands-e-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37052,7 +37052,7 @@
       ]
     },
     {
-      "name": "stands-d-en-large",
+      "name": "stands-d-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37077,7 +37077,7 @@
       ]
     },
     {
-      "name": "stands-d-en-small",
+      "name": "stands-d-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37102,7 +37102,7 @@
       ]
     },
     {
-      "name": "stands-d-it-large",
+      "name": "stands-d-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37127,7 +37127,7 @@
       ]
     },
     {
-      "name": "stands-d-it-small",
+      "name": "stands-d-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37152,7 +37152,7 @@
       ]
     },
     {
-      "name": "stands-d-fr-large",
+      "name": "stands-d-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37177,7 +37177,7 @@
       ]
     },
     {
-      "name": "stands-d-fr-small",
+      "name": "stands-d-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37202,7 +37202,7 @@
       ]
     },
     {
-      "name": "stands-d-de-large",
+      "name": "stands-d-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37227,7 +37227,7 @@
       ]
     },
     {
-      "name": "stands-d-de-small",
+      "name": "stands-d-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37252,7 +37252,7 @@
       ]
     },
     {
-      "name": "stands-c-en-large",
+      "name": "stands-c-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37277,7 +37277,7 @@
       ]
     },
     {
-      "name": "stands-c-en-small",
+      "name": "stands-c-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37302,7 +37302,7 @@
       ]
     },
     {
-      "name": "stands-c-it-large",
+      "name": "stands-c-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37327,7 +37327,7 @@
       ]
     },
     {
-      "name": "stands-c-it-small",
+      "name": "stands-c-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37352,7 +37352,7 @@
       ]
     },
     {
-      "name": "stands-c-fr-large",
+      "name": "stands-c-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37377,7 +37377,7 @@
       ]
     },
     {
-      "name": "stands-c-fr-small",
+      "name": "stands-c-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37402,7 +37402,7 @@
       ]
     },
     {
-      "name": "stands-c-de-large",
+      "name": "stands-c-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37427,7 +37427,7 @@
       ]
     },
     {
-      "name": "stands-c-de-small",
+      "name": "stands-c-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37452,7 +37452,7 @@
       ]
     },
     {
-      "name": "stands-b-en-large",
+      "name": "stands-b-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37477,7 +37477,7 @@
       ]
     },
     {
-      "name": "stands-b-en-small",
+      "name": "stands-b-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37502,7 +37502,7 @@
       ]
     },
     {
-      "name": "stands-b-it-large",
+      "name": "stands-b-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37527,7 +37527,7 @@
       ]
     },
     {
-      "name": "stands-b-it-small",
+      "name": "stands-b-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37552,7 +37552,7 @@
       ]
     },
     {
-      "name": "stands-b-fr-large",
+      "name": "stands-b-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37577,7 +37577,7 @@
       ]
     },
     {
-      "name": "stands-b-fr-small",
+      "name": "stands-b-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37602,7 +37602,7 @@
       ]
     },
     {
-      "name": "stands-b-de-large",
+      "name": "stands-b-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37627,7 +37627,7 @@
       ]
     },
     {
-      "name": "stands-b-de-small",
+      "name": "stands-b-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37652,7 +37652,7 @@
       ]
     },
     {
-      "name": "stands-a-en-large",
+      "name": "stands-a-en-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37677,7 +37677,7 @@
       ]
     },
     {
-      "name": "stands-a-en-small",
+      "name": "stands-a-en-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37702,7 +37702,7 @@
       ]
     },
     {
-      "name": "stands-a-it-large",
+      "name": "stands-a-it-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37727,7 +37727,7 @@
       ]
     },
     {
-      "name": "stands-a-it-small",
+      "name": "stands-a-it-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37752,7 +37752,7 @@
       ]
     },
     {
-      "name": "stands-a-fr-large",
+      "name": "stands-a-fr-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37777,7 +37777,7 @@
       ]
     },
     {
-      "name": "stands-a-fr-small",
+      "name": "stands-a-fr-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37802,7 +37802,7 @@
       ]
     },
     {
-      "name": "stands-a-de-large",
+      "name": "stands-a-de-large-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37827,7 +37827,7 @@
       ]
     },
     {
-      "name": "stands-a-de-small",
+      "name": "stands-a-de-small-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37852,7 +37852,7 @@
       ]
     },
     {
-      "name": "horizontal-hyphen",
+      "name": "horizontal-hyphen-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37877,7 +37877,7 @@
       ]
     },
     {
-      "name": "1st-class",
+      "name": "1st-class-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37902,7 +37902,7 @@
       ]
     },
     {
-      "name": "2nd-class",
+      "name": "2nd-class-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37927,7 +37927,7 @@
       ]
     },
     {
-      "name": "train-left",
+      "name": "train-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37952,7 +37952,7 @@
       ]
     },
     {
-      "name": "train-right",
+      "name": "train-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37977,7 +37977,7 @@
       ]
     },
     {
-      "name": "tram-left",
+      "name": "tram-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38002,7 +38002,7 @@
       ]
     },
     {
-      "name": "tram-right",
+      "name": "tram-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38027,7 +38027,7 @@
       ]
     },
     {
-      "name": "bus-left",
+      "name": "bus-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38052,7 +38052,7 @@
       ]
     },
     {
-      "name": "bus-right",
+      "name": "bus-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38077,7 +38077,7 @@
       ]
     },
     {
-      "name": "remote-bus-left",
+      "name": "remote-bus-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38102,7 +38102,7 @@
       ]
     },
     {
-      "name": "remote-bus-right",
+      "name": "remote-bus-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38127,7 +38127,7 @@
       ]
     },
     {
-      "name": "aeroplane-left",
+      "name": "aeroplane-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38152,7 +38152,7 @@
       ]
     },
     {
-      "name": "aeroplane-right",
+      "name": "aeroplane-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38177,7 +38177,7 @@
       ]
     },
     {
-      "name": "jetty-left",
+      "name": "jetty-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38202,7 +38202,7 @@
       ]
     },
     {
-      "name": "jetty-right",
+      "name": "jetty-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38227,7 +38227,7 @@
       ]
     },
     {
-      "name": "metro-left-it",
+      "name": "metro-left-it-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38252,7 +38252,7 @@
       ]
     },
     {
-      "name": "metro-left-fr",
+      "name": "metro-left-fr-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38277,7 +38277,7 @@
       ]
     },
     {
-      "name": "metro-left-de",
+      "name": "metro-left-de-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38302,7 +38302,7 @@
       ]
     },
     {
-      "name": "metro-right-it",
+      "name": "metro-right-it-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38327,7 +38327,7 @@
       ]
     },
     {
-      "name": "metro-right-fr",
+      "name": "metro-right-fr-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38352,7 +38352,7 @@
       ]
     },
     {
-      "name": "metro-right-de",
+      "name": "metro-right-de-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38377,7 +38377,7 @@
       ]
     },
     {
-      "name": "car-ferry-left",
+      "name": "car-ferry-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38402,7 +38402,7 @@
       ]
     },
     {
-      "name": "car-ferry-right",
+      "name": "car-ferry-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38427,7 +38427,7 @@
       ]
     },
     {
-      "name": "car-train-left",
+      "name": "car-train-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38452,7 +38452,7 @@
       ]
     },
     {
-      "name": "car-train-right",
+      "name": "car-train-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38477,7 +38477,7 @@
       ]
     },
     {
-      "name": "loading-ramp-for-lorries-left",
+      "name": "loading-ramp-for-lorries-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38502,7 +38502,7 @@
       ]
     },
     {
-      "name": "loading-ramp-for-lorries-right",
+      "name": "loading-ramp-for-lorries-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38527,7 +38527,7 @@
       ]
     },
     {
-      "name": "cog-railway-left",
+      "name": "cog-railway-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38552,7 +38552,7 @@
       ]
     },
     {
-      "name": "cog-railway-right",
+      "name": "cog-railway-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38577,7 +38577,7 @@
       ]
     },
     {
-      "name": "funicular-railway-left",
+      "name": "funicular-railway-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38602,7 +38602,7 @@
       ]
     },
     {
-      "name": "funicular-railway-right",
+      "name": "funicular-railway-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38627,7 +38627,7 @@
       ]
     },
     {
-      "name": "cableway-left",
+      "name": "cableway-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38652,7 +38652,7 @@
       ]
     },
     {
-      "name": "cableway-right",
+      "name": "cableway-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38677,7 +38677,7 @@
       ]
     },
     {
-      "name": "gondola-lift-left",
+      "name": "gondola-lift-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38702,7 +38702,7 @@
       ]
     },
     {
-      "name": "gondola-lift-right",
+      "name": "gondola-lift-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38727,7 +38727,7 @@
       ]
     },
     {
-      "name": "chair-lift-left",
+      "name": "chair-lift-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38752,7 +38752,7 @@
       ]
     },
     {
-      "name": "chair-lift-right",
+      "name": "chair-lift-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38777,7 +38777,7 @@
       ]
     },
     {
-      "name": "ski-lift-left",
+      "name": "ski-lift-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38802,7 +38802,7 @@
       ]
     },
     {
-      "name": "ski-lift-right",
+      "name": "ski-lift-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38827,7 +38827,7 @@
       ]
     },
     {
-      "name": "car-left",
+      "name": "car-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38852,7 +38852,7 @@
       ]
     },
     {
-      "name": "car-right",
+      "name": "car-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38877,7 +38877,7 @@
       ]
     },
     {
-      "name": "taxi-left",
+      "name": "taxi-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38902,7 +38902,7 @@
       ]
     },
     {
-      "name": "taxi-right",
+      "name": "taxi-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38927,7 +38927,7 @@
       ]
     },
     {
-      "name": "car-sharing-left",
+      "name": "car-sharing-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38952,7 +38952,7 @@
       ]
     },
     {
-      "name": "car-sharing-right",
+      "name": "car-sharing-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -38977,7 +38977,7 @@
       ]
     },
     {
-      "name": "car-hire-left-it",
+      "name": "car-hire-left-it-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39002,7 +39002,7 @@
       ]
     },
     {
-      "name": "car-hire-left-fr",
+      "name": "car-hire-left-fr-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39027,7 +39027,7 @@
       ]
     },
     {
-      "name": "car-hire-left-de",
+      "name": "car-hire-left-de-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39052,7 +39052,7 @@
       ]
     },
     {
-      "name": "car-hire-right-it",
+      "name": "car-hire-right-it-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39077,7 +39077,7 @@
       ]
     },
     {
-      "name": "car-hire-right-fr",
+      "name": "car-hire-right-fr-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39102,7 +39102,7 @@
       ]
     },
     {
-      "name": "car-hire-right-de",
+      "name": "car-hire-right-de-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39127,7 +39127,7 @@
       ]
     },
     {
-      "name": "bike-left",
+      "name": "bike-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39152,7 +39152,7 @@
       ]
     },
     {
-      "name": "bike-right",
+      "name": "bike-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39177,7 +39177,7 @@
       ]
     },
     {
-      "name": "bike-hire-left-it",
+      "name": "bike-hire-left-it-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39202,7 +39202,7 @@
       ]
     },
     {
-      "name": "bike-hire-left-fr",
+      "name": "bike-hire-left-fr-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39227,7 +39227,7 @@
       ]
     },
     {
-      "name": "bike-hire-left-de",
+      "name": "bike-hire-left-de-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39252,7 +39252,7 @@
       ]
     },
     {
-      "name": "bike-hire-right-it",
+      "name": "bike-hire-right-it-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39277,7 +39277,7 @@
       ]
     },
     {
-      "name": "bike-hire-right-fr",
+      "name": "bike-hire-right-fr-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39302,7 +39302,7 @@
       ]
     },
     {
-      "name": "bike-hire-right-de",
+      "name": "bike-hire-right-de-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39327,7 +39327,7 @@
       ]
     },
     {
-      "name": "truck-left",
+      "name": "truck-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39352,7 +39352,7 @@
       ]
     },
     {
-      "name": "truck-right",
+      "name": "truck-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39377,7 +39377,7 @@
       ]
     },
     {
-      "name": "motorcycle-left",
+      "name": "motorcycle-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39402,7 +39402,7 @@
       ]
     },
     {
-      "name": "motorcycle-right",
+      "name": "motorcycle-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39427,7 +39427,7 @@
       ]
     },
     {
-      "name": "car-park",
+      "name": "car-park-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39452,7 +39452,7 @@
       ]
     },
     {
-      "name": "covered-car-park",
+      "name": "covered-car-park-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39477,7 +39477,7 @@
       ]
     },
     {
-      "name": "park-rail",
+      "name": "park-rail-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39502,7 +39502,7 @@
       ]
     },
     {
-      "name": "mofa-car-park-left",
+      "name": "mofa-car-park-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39527,7 +39527,7 @@
       ]
     },
     {
-      "name": "mofa-car-park-right",
+      "name": "mofa-car-park-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39552,7 +39552,7 @@
       ]
     },
     {
-      "name": "bicycle-park-left",
+      "name": "bicycle-park-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39577,7 +39577,7 @@
       ]
     },
     {
-      "name": "bicycle-park-right",
+      "name": "bicycle-park-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39602,7 +39602,7 @@
       ]
     },
     {
-      "name": "bike-reservation-left",
+      "name": "bike-reservation-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39627,7 +39627,7 @@
       ]
     },
     {
-      "name": "bike-reservation-right",
+      "name": "bike-reservation-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39652,7 +39652,7 @@
       ]
     },
     {
-      "name": "bike-station-left",
+      "name": "bike-station-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39677,7 +39677,7 @@
       ]
     },
     {
-      "name": "bike-station-right",
+      "name": "bike-station-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39702,7 +39702,7 @@
       ]
     },
     {
-      "name": "electric-car-charging-station-left",
+      "name": "electric-car-charging-station-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39727,7 +39727,7 @@
       ]
     },
     {
-      "name": "electric-car-charging-station-right",
+      "name": "electric-car-charging-station-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39752,7 +39752,7 @@
       ]
     },
     {
-      "name": "electric-bike-charging-station-left",
+      "name": "electric-bike-charging-station-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39777,7 +39777,7 @@
       ]
     },
     {
-      "name": "electric-bike-charging-station-right",
+      "name": "electric-bike-charging-station-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39802,7 +39802,7 @@
       ]
     },
     {
-      "name": "accessible-left",
+      "name": "accessible-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39827,7 +39827,7 @@
       ]
     },
     {
-      "name": "accessible-right",
+      "name": "accessible-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39852,7 +39852,7 @@
       ]
     },
     {
-      "name": "pushchair-left",
+      "name": "pushchair-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39877,7 +39877,7 @@
       ]
     },
     {
-      "name": "pushchair-right",
+      "name": "pushchair-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39902,7 +39902,7 @@
       ]
     },
     {
-      "name": "people-with-limited-mobility-pregnant",
+      "name": "people-with-limited-mobility-pregnant-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39927,7 +39927,7 @@
       ]
     },
     {
-      "name": "people-with-limited-mobility-frail",
+      "name": "people-with-limited-mobility-frail-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39952,7 +39952,7 @@
       ]
     },
     {
-      "name": "call-for-help",
+      "name": "call-for-help-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39977,7 +39977,7 @@
       ]
     },
     {
-      "name": "person-with-reduced-mobility-deaf",
+      "name": "person-with-reduced-mobility-deaf-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40002,7 +40002,7 @@
       ]
     },
     {
-      "name": "inductive-coupling",
+      "name": "inductive-coupling-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40027,7 +40027,7 @@
       ]
     },
     {
-      "name": "electric-coupling",
+      "name": "electric-coupling-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40052,7 +40052,7 @@
       ]
     },
     {
-      "name": "information",
+      "name": "information-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40077,7 +40077,7 @@
       ]
     },
     {
-      "name": "tickets",
+      "name": "tickets-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40102,7 +40102,7 @@
       ]
     },
     {
-      "name": "ticket-machine-it",
+      "name": "ticket-machine-it-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40127,7 +40127,7 @@
       ]
     },
     {
-      "name": "ticket-machine-fr",
+      "name": "ticket-machine-fr-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40152,7 +40152,7 @@
       ]
     },
     {
-      "name": "ticket-machine-de",
+      "name": "ticket-machine-de-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40177,7 +40177,7 @@
       ]
     },
     {
-      "name": "currency-exchange",
+      "name": "currency-exchange-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40202,7 +40202,7 @@
       ]
     },
     {
-      "name": "lost-property-office",
+      "name": "lost-property-office-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40227,7 +40227,7 @@
       ]
     },
     {
-      "name": "luggage-registration",
+      "name": "luggage-registration-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40252,7 +40252,7 @@
       ]
     },
     {
-      "name": "luggage-reclaim",
+      "name": "luggage-reclaim-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40277,7 +40277,7 @@
       ]
     },
     {
-      "name": "luggage",
+      "name": "luggage-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40302,7 +40302,7 @@
       ]
     },
     {
-      "name": "luggage-deposit",
+      "name": "luggage-deposit-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40327,7 +40327,7 @@
       ]
     },
     {
-      "name": "luggage-lockers",
+      "name": "luggage-lockers-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40352,7 +40352,7 @@
       ]
     },
     {
-      "name": "waiting-room",
+      "name": "waiting-room-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40377,7 +40377,7 @@
       ]
     },
     {
-      "name": "station-assistance",
+      "name": "station-assistance-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40402,7 +40402,7 @@
       ]
     },
     {
-      "name": "check-in-left",
+      "name": "check-in-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40427,7 +40427,7 @@
       ]
     },
     {
-      "name": "check-in-right",
+      "name": "check-in-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40452,7 +40452,7 @@
       ]
     },
     {
-      "name": "departure-left",
+      "name": "departure-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40477,7 +40477,7 @@
       ]
     },
     {
-      "name": "departure-right",
+      "name": "departure-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40502,7 +40502,7 @@
       ]
     },
     {
-      "name": "arrival-left",
+      "name": "arrival-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40527,7 +40527,7 @@
       ]
     },
     {
-      "name": "arrival-right",
+      "name": "arrival-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40552,7 +40552,7 @@
       ]
     },
     {
-      "name": "cash-machine",
+      "name": "cash-machine-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40577,7 +40577,7 @@
       ]
     },
     {
-      "name": "tourist-information",
+      "name": "tourist-information-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40602,7 +40602,7 @@
       ]
     },
     {
-      "name": "meeting-point",
+      "name": "meeting-point-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40627,7 +40627,7 @@
       ]
     },
     {
-      "name": "restaurant",
+      "name": "restaurant-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40652,7 +40652,7 @@
       ]
     },
     {
-      "name": "bistro",
+      "name": "bistro-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40677,7 +40677,7 @@
       ]
     },
     {
-      "name": "shopping",
+      "name": "shopping-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40702,7 +40702,7 @@
       ]
     },
     {
-      "name": "family-zone",
+      "name": "family-zone-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40727,7 +40727,7 @@
       ]
     },
     {
-      "name": "quiet-zone",
+      "name": "quiet-zone-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40752,7 +40752,7 @@
       ]
     },
     {
-      "name": "business-zone",
+      "name": "business-zone-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40777,7 +40777,7 @@
       ]
     },
     {
-      "name": "reservation",
+      "name": "reservation-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40802,7 +40802,7 @@
       ]
     },
     {
-      "name": "aeroplane-seating",
+      "name": "aeroplane-seating-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40827,7 +40827,7 @@
       ]
     },
     {
-      "name": "multi-purpose-area",
+      "name": "multi-purpose-area-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40852,7 +40852,7 @@
       ]
     },
     {
-      "name": "luggage-stowage",
+      "name": "luggage-stowage-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40877,7 +40877,7 @@
       ]
     },
     {
-      "name": "cloak-room",
+      "name": "cloak-room-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40902,7 +40902,7 @@
       ]
     },
     {
-      "name": "ski-rack",
+      "name": "ski-rack-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40927,7 +40927,7 @@
       ]
     },
     {
-      "name": "wi-fi",
+      "name": "wi-fi-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40952,7 +40952,7 @@
       ]
     },
     {
-      "name": "luggage-push-carts",
+      "name": "luggage-push-carts-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40977,7 +40977,7 @@
       ]
     },
     {
-      "name": "announcement",
+      "name": "announcement-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41002,7 +41002,7 @@
       ]
     },
     {
-      "name": "telephone",
+      "name": "telephone-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41027,7 +41027,7 @@
       ]
     },
     {
-      "name": "mobile-phone",
+      "name": "mobile-phone-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41052,7 +41052,7 @@
       ]
     },
     {
-      "name": "emergency-number",
+      "name": "emergency-number-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41077,7 +41077,7 @@
       ]
     },
     {
-      "name": "socket",
+      "name": "socket-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41102,7 +41102,7 @@
       ]
     },
     {
-      "name": "sleeping-car",
+      "name": "sleeping-car-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41127,7 +41127,7 @@
       ]
     },
     {
-      "name": "couchette-car",
+      "name": "couchette-car-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41152,7 +41152,7 @@
       ]
     },
     {
-      "name": "stairs-up-left",
+      "name": "stairs-up-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41177,7 +41177,7 @@
       ]
     },
     {
-      "name": "stairs-up-right",
+      "name": "stairs-up-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41202,7 +41202,7 @@
       ]
     },
     {
-      "name": "stairs-down-left",
+      "name": "stairs-down-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41227,7 +41227,7 @@
       ]
     },
     {
-      "name": "stairs-down-right",
+      "name": "stairs-down-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41252,7 +41252,7 @@
       ]
     },
     {
-      "name": "ramp-up-left",
+      "name": "ramp-up-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41277,7 +41277,7 @@
       ]
     },
     {
-      "name": "ramp-up-right",
+      "name": "ramp-up-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41302,7 +41302,7 @@
       ]
     },
     {
-      "name": "ramp-down-left",
+      "name": "ramp-down-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41327,7 +41327,7 @@
       ]
     },
     {
-      "name": "ramp-down-right",
+      "name": "ramp-down-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41352,7 +41352,7 @@
       ]
     },
     {
-      "name": "escalator-up-left",
+      "name": "escalator-up-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41377,7 +41377,7 @@
       ]
     },
     {
-      "name": "escalator-up-right",
+      "name": "escalator-up-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41402,7 +41402,7 @@
       ]
     },
     {
-      "name": "escalator-down-left",
+      "name": "escalator-down-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41427,7 +41427,7 @@
       ]
     },
     {
-      "name": "escalator-down-right",
+      "name": "escalator-down-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41452,7 +41452,7 @@
       ]
     },
     {
-      "name": "lift",
+      "name": "lift-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41477,7 +41477,7 @@
       ]
     },
     {
-      "name": "residual-waste",
+      "name": "residual-waste-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41502,7 +41502,7 @@
       ]
     },
     {
-      "name": "aluminium-recycling",
+      "name": "aluminium-recycling-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41527,7 +41527,7 @@
       ]
     },
     {
-      "name": "glass-recycling",
+      "name": "glass-recycling-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41552,7 +41552,7 @@
       ]
     },
     {
-      "name": "pet-bottle-recycling",
+      "name": "pet-bottle-recycling-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41577,7 +41577,7 @@
       ]
     },
     {
-      "name": "paper-recycling",
+      "name": "paper-recycling-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41602,7 +41602,7 @@
       ]
     },
     {
-      "name": "disposal-of-sanitary-products",
+      "name": "disposal-of-sanitary-products-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41627,7 +41627,7 @@
       ]
     },
     {
-      "name": "disposal-of-syringes",
+      "name": "disposal-of-syringes-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41652,7 +41652,7 @@
       ]
     },
     {
-      "name": "toilets",
+      "name": "toilets-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41677,7 +41677,7 @@
       ]
     },
     {
-      "name": "ladies-toilets",
+      "name": "ladies-toilets-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41702,7 +41702,7 @@
       ]
     },
     {
-      "name": "gents-toilets",
+      "name": "gents-toilets-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41727,7 +41727,7 @@
       ]
     },
     {
-      "name": "all-gender-toilet",
+      "name": "all-gender-toilet-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41752,7 +41752,7 @@
       ]
     },
     {
-      "name": "urinal",
+      "name": "urinal-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41777,7 +41777,7 @@
       ]
     },
     {
-      "name": "changing-table",
+      "name": "changing-table-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41802,7 +41802,7 @@
       ]
     },
     {
-      "name": "drinking-water",
+      "name": "drinking-water-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41827,7 +41827,7 @@
       ]
     },
     {
-      "name": "not-drinking-water",
+      "name": "not-drinking-water-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41852,7 +41852,7 @@
       ]
     },
     {
-      "name": "showers",
+      "name": "showers-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41877,7 +41877,7 @@
       ]
     },
     {
-      "name": "pedal-bin",
+      "name": "pedal-bin-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41902,7 +41902,7 @@
       ]
     },
     {
-      "name": "hand-dryer",
+      "name": "hand-dryer-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41927,7 +41927,7 @@
       ]
     },
     {
-      "name": "hand-towels",
+      "name": "hand-towels-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41952,7 +41952,7 @@
       ]
     },
     {
-      "name": "soap",
+      "name": "soap-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -41977,7 +41977,7 @@
       ]
     },
     {
-      "name": "hand-sanitizer",
+      "name": "hand-sanitizer-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42002,7 +42002,7 @@
       ]
     },
     {
-      "name": "toilet-seat-cleaner",
+      "name": "toilet-seat-cleaner-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42027,7 +42027,7 @@
       ]
     },
     {
-      "name": "wc-with-support-aids",
+      "name": "wc-with-support-aids-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42052,7 +42052,7 @@
       ]
     },
     {
-      "name": "cleaning-room",
+      "name": "cleaning-room-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42077,7 +42077,7 @@
       ]
     },
     {
-      "name": "doorway",
+      "name": "doorway-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42102,7 +42102,7 @@
       ]
     },
     {
-      "name": "doorway-double-doors",
+      "name": "doorway-double-doors-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42127,7 +42127,7 @@
       ]
     },
     {
-      "name": "light",
+      "name": "light-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42152,7 +42152,7 @@
       ]
     },
     {
-      "name": "alarm",
+      "name": "alarm-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42177,7 +42177,7 @@
       ]
     },
     {
-      "name": "smoking",
+      "name": "smoking-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42202,7 +42202,7 @@
       ]
     },
     {
-      "name": "non-smoking",
+      "name": "non-smoking-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42227,7 +42227,7 @@
       ]
     },
     {
-      "name": "luggage-push-carts-prohibited",
+      "name": "luggage-push-carts-prohibited-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42252,7 +42252,7 @@
       ]
     },
     {
-      "name": "luggage-prohibited",
+      "name": "luggage-prohibited-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42277,7 +42277,7 @@
       ]
     },
     {
-      "name": "mobiles-prohibited",
+      "name": "mobiles-prohibited-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42302,7 +42302,7 @@
       ]
     },
     {
-      "name": "loud-music-prohibited",
+      "name": "loud-music-prohibited-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42327,7 +42327,7 @@
       ]
     },
     {
-      "name": "dogs-prohibited",
+      "name": "dogs-prohibited-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42352,7 +42352,7 @@
       ]
     },
     {
-      "name": "do-not-lean-out-of-the-window",
+      "name": "do-not-lean-out-of-the-window-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42377,7 +42377,7 @@
       ]
     },
     {
-      "name": "do-not-throw-items-out-of-the-window",
+      "name": "do-not-throw-items-out-of-the-window-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42402,7 +42402,7 @@
       ]
     },
     {
-      "name": "no-entry",
+      "name": "no-entry-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42427,7 +42427,7 @@
       ]
     },
     {
-      "name": "jump-on-train-prohibited-when-door-is-closing-left",
+      "name": "jump-on-train-prohibited-when-door-is-closing-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42452,7 +42452,7 @@
       ]
     },
     {
-      "name": "jump-on-train-prohibited-when-door-is-closing-right",
+      "name": "jump-on-train-prohibited-when-door-is-closing-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42477,7 +42477,7 @@
       ]
     },
     {
-      "name": "do-not-dispose-of-residual-waste-or-sanitary-products",
+      "name": "do-not-dispose-of-residual-waste-or-sanitary-products-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42502,7 +42502,7 @@
       ]
     },
     {
-      "name": "cycling-prohibited-left",
+      "name": "cycling-prohibited-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42527,7 +42527,7 @@
       ]
     },
     {
-      "name": "cycling-prohibited-right",
+      "name": "cycling-prohibited-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42552,7 +42552,7 @@
       ]
     },
     {
-      "name": "sitting-prohibited-left",
+      "name": "sitting-prohibited-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42577,7 +42577,7 @@
       ]
     },
     {
-      "name": "sitting-prohibited-right",
+      "name": "sitting-prohibited-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42602,7 +42602,7 @@
       ]
     },
     {
-      "name": "no-thoroughfare",
+      "name": "no-thoroughfare-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42627,7 +42627,7 @@
       ]
     },
     {
-      "name": "attention-danger-of-falling",
+      "name": "attention-danger-of-falling-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42652,7 +42652,7 @@
       ]
     },
     {
-      "name": "attention-train-left",
+      "name": "attention-train-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42677,7 +42677,7 @@
       ]
     },
     {
-      "name": "attention-train-right",
+      "name": "attention-train-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42702,7 +42702,7 @@
       ]
     },
     {
-      "name": "walk-on-the-left-stand-on-the-right",
+      "name": "walk-on-the-left-stand-on-the-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42727,7 +42727,7 @@
       ]
     },
     {
-      "name": "self-service-validation-blue",
+      "name": "self-service-validation-blue-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42752,7 +42752,7 @@
       ]
     },
     {
-      "name": "self-service-validation-yellow",
+      "name": "self-service-validation-yellow-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42777,7 +42777,7 @@
       ]
     },
     {
-      "name": "cctv",
+      "name": "cctv-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42802,7 +42802,7 @@
       ]
     },
     {
-      "name": "construction-site",
+      "name": "construction-site-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42827,7 +42827,7 @@
       ]
     },
     {
-      "name": "maximum-load",
+      "name": "maximum-load-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42852,7 +42852,7 @@
       ]
     },
     {
-      "name": "customs-it",
+      "name": "customs-it-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42877,7 +42877,7 @@
       ]
     },
     {
-      "name": "customs-fr",
+      "name": "customs-fr-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42902,7 +42902,7 @@
       ]
     },
     {
-      "name": "customs-de",
+      "name": "customs-de-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42927,7 +42927,7 @@
       ]
     },
     {
-      "name": "emergency",
+      "name": "emergency-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42952,7 +42952,7 @@
       ]
     },
     {
-      "name": "emergency-exit-left",
+      "name": "emergency-exit-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -42977,7 +42977,7 @@
       ]
     },
     {
-      "name": "emergency-exit-right",
+      "name": "emergency-exit-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43002,7 +43002,7 @@
       ]
     },
     {
-      "name": "defibrillator",
+      "name": "defibrillator-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43027,7 +43027,7 @@
       ]
     },
     {
-      "name": "first-aid",
+      "name": "first-aid-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43052,7 +43052,7 @@
       ]
     },
     {
-      "name": "emergency-instructions",
+      "name": "emergency-instructions-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43077,7 +43077,7 @@
       ]
     },
     {
-      "name": "emergency-brake",
+      "name": "emergency-brake-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43102,7 +43102,7 @@
       ]
     },
     {
-      "name": "break-glass-here",
+      "name": "break-glass-here-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43127,7 +43127,7 @@
       ]
     },
     {
-      "name": "press-out-glass",
+      "name": "press-out-glass-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43152,7 +43152,7 @@
       ]
     },
     {
-      "name": "escape-ladder",
+      "name": "escape-ladder-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43177,7 +43177,7 @@
       ]
     },
     {
-      "name": "emergency-window-left",
+      "name": "emergency-window-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43202,7 +43202,7 @@
       ]
     },
     {
-      "name": "emergency-window-right",
+      "name": "emergency-window-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43227,7 +43227,7 @@
       ]
     },
     {
-      "name": "emergency-window-with-escape-ladder-left",
+      "name": "emergency-window-with-escape-ladder-left-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43252,7 +43252,7 @@
       ]
     },
     {
-      "name": "emergency-window-with-escape-ladder-right",
+      "name": "emergency-window-with-escape-ladder-right-framed",
       "color": false,
       "scalable": true,
       "tags": [
@@ -43277,7 +43277,7 @@
       ]
     },
     {
-      "name": "fire-extinguisher",
+      "name": "fire-extinguisher-framed",
       "color": false,
       "scalable": true,
       "tags": [

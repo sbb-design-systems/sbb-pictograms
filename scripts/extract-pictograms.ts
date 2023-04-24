@@ -256,9 +256,11 @@ interface Description {
         {} as Record<string, string>
       );
 
+    const framed = path.some(o => o.name.toLowerCase() === 'with-frames') ? '-framed' : '';
+
     return `${parent.name.split('/')!.at(-1)!.toLowerCase()}${value ?? ''}${
       direction ?? ''
-    }${language ?? ''}${valueSize ?? ''}.svg`;
+    }${language ?? ''}${valueSize ?? ''}${framed}.svg`;
   }
 
   function tryParseJSON<T>(
