@@ -94,7 +94,7 @@ interface Description {
     );
     const data = {
       version: JSON.parse(packageJson).version,
-      pictograms: validPictograms.map((i) => ({
+      picto: validPictograms.map((i) => ({
         name: i.fileName.replace(/.svg$/, ''),
         color: !!i.description.color,
         scalable: i.description.scalable,
@@ -102,7 +102,7 @@ interface Description {
       })),
     };
     writeFileSync(
-      new URL('../pictograms/index.json', import.meta.url),
+      new URL('../picto/index.json', import.meta.url),
       JSON.stringify(data, null, 2),
       'utf-8'
     );
@@ -141,7 +141,7 @@ interface Description {
             svg = svg.replace('<svg ', `<svg class="color-immutable" `);
           }
           writeFileSync(
-            new URL(`../pictograms/${pictogram.fileName}`, import.meta.url),
+            new URL(`../picto/${pictogram.fileName}`, import.meta.url),
             svg,
             'utf-8'
           );

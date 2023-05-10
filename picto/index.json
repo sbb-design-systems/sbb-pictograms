@@ -1,6 +1,6 @@
 {
-  "version": "0.0.3",
-  "pictograms": [
+  "version": "0.0.4",
+  "picto": [
     {
       "name": "arrow-pointing-left-blue",
       "color": false,

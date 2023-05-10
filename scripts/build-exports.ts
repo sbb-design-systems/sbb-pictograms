@@ -2,30 +2,30 @@ import { readFileSync, writeFileSync } from 'fs';
 
 (() => {
   const fileContent = readFileSync(
-    new URL('../pictograms/index.json', import.meta.url),
+    new URL('../picto/index.json', import.meta.url),
     'utf-8'
   );
-  const pictograms: { version: string; pictograms: { name: string }[] } =
+  const pictograms: { version: string; picto: { name: string }[] } =
     JSON.parse(fileContent);
 
-  const pictogramMap = pictograms.pictograms.reduce(
+  const pictogramMap = pictograms.picto.reduce(
     (current, next) =>
       Object.assign(current, { [pascalCase(next.name)]: next.name }),
     {} as Record<string, string>
   );
 
   writeFileSync(
-    new URL('../pictograms/index.cjs', import.meta.url),
+    new URL('../picto/index.cjs', import.meta.url),
     toCjs(),
     'utf-8'
   );
   writeFileSync(
-    new URL('../pictograms/index.mjs', import.meta.url),
+    new URL('../picto/index.mjs', import.meta.url),
     toMjs(),
     'utf-8'
   );
   writeFileSync(
-    new URL('../pictograms/index.d.ts', import.meta.url),
+    new URL('../picto/index.d.ts', import.meta.url),
     toDTs(),
     'utf-8'
   );

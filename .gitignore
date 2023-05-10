@@ -107,6 +107,6 @@ dist
 .tern-port
 
 # Exports
-pictograms/*.cjs
-pictograms/*.mjs
-pictograms/*.d.ts
+picto/*.cjs
+picto/*.mjs
+picto/*.d.ts

@@ -42,7 +42,7 @@ runs:
       env:
         NODE_AUTH_TOKEN: ${{ inputs.npm-token }}
       shell: bash
-      
+
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1-node16
       with:
@@ -50,7 +50,7 @@ runs:
         aws-secret-access-key: ${{ inputs.aws-secret-access-key }}
         aws-region: eu-central-1
     - name: Upload pictograms and indexes to s3
-      run: aws s3 cp . s3://cloudfront-icon-cdn-backend-esta-web-prod --recursive --exclude "*" --include "pictograms/*.svg" --include "pictograms/index.json"
+      run: aws s3 cp . s3://cloudfront-icon-cdn-backend-esta-web-prod --recursive --exclude "*" --include "picto/*.svg" --include "picto/index.json"
       env:
-        S3BUCKET: 
+        S3BUCKET:
       shell: bash

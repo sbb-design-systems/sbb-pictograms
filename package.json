@@ -7,6 +7,7 @@
   "license": "Apache-2.0",
   "keywords": [
     "pictograms",
+    "picto",
     "svg",
     "sbb"
   ],
@@ -14,11 +15,11 @@
     "extract": "tsx scripts/extract-pictograms.ts",
     "prepack": "tsx scripts/build-exports.ts"
   },
-  "main": "./pictograms/index.cjs",
-  "module": "./pictograms/index.mjs",
-  "es2015": "./pictograms/index.mjs",
-  "es2017": "./pictograms/index.mjs",
-  "typings": "./pictograms/index.d.ts",
+  "main": "./picto/index.cjs",
+  "module": "./picto/index.mjs",
+  "es2015": "./picto/index.mjs",
+  "es2017": "./picto/index.mjs",
+  "typings": "./picto/index.d.ts",
   "devDependencies": {
     "@types/node": "18.0.3",
     "@types/svgo": "2.6.3",
@@ -31,7 +32,7 @@
     "typescript": "4.7.4"
   },
   "files": [
-    "pictograms"
+    "picto"
   ],
   "publishConfig": {
     "access": "public"
