@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.5 (2023-05-10)
+
+
+### Features
+
+* rename namespace to picto ([f5f10d0](https://github.com/sbb-design-systems/sbb-pictograms/commit/f5f10d0318e5cdc46f7c8b31c5fc88b7f4f7683b))
+
 ### 0.0.4 (2023-04-24)
 
 
