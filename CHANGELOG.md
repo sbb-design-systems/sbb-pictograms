@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.6 (2023-05-23)
+
+
+### Features
+
+* simplify optimizations of svg ([6e98c56](https://github.com/sbb-design-systems/sbb-pictograms/commit/6e98c564fe07a804f447bb6136e2d7cf5a04d267))
+
 ### 0.0.5 (2023-05-10)
 
 
