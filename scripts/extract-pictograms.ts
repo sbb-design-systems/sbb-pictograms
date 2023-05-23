@@ -1,7 +1,7 @@
 import * as Figma from 'figma-js';
 import { readFileSync, writeFileSync } from 'fs';
 import { Octokit } from 'octokit';
-import { optimize } from 'svgo';
+import { XastChild, XastElement, optimize } from 'svgo';
 
 const pictogramsFileId = process.env.FIGMA_FILE_ID!;
 const pictogramBatchSize = 200;
@@ -121,6 +121,56 @@ interface Description {
         const minifiedContent = optimize(content, {
           plugins: [
             {
+              name: 'remove-clip-path',
+              type: 'full',
+              fn(ast: ASTRoot) {
+                const svgRoot = ast.children[0];
+                if (svgRoot.type !== 'element' || svgRoot.name !== 'svg') {
+                  return ast;
+                }
+
+                const group = svgRoot.children[0];
+                if (
+                  group.type !== 'element' ||
+                  group.name !== 'g' ||
+                  !group.attributes['clip-path'] ||
+                  !group.attributes['clip-path'].match(/^url\(\#\w+\)$/)
+                ) {
+                  return ast;
+                }
+
+                const clipPathId = group.attributes['clip-path'].slice(5, -1);
+                const defs = svgRoot.children.find(
+                  (c): c is XastElement =>
+                    c.type === 'element' && c.name === 'defs'
+                )!;
+                const clipPath = defs.children.find(
+                  (c) =>
+                    c.type === 'element' &&
+                    c.name === 'clipPath' &&
+                    c.attributes['id'] === clipPathId
+                );
+
+                if (Object.keys(group.attributes).length === 1) {
+                  svgRoot.children = svgRoot.children.flatMap((c) =>
+                    c !== group ? c : group.children
+                  );
+                } else {
+                  delete group.attributes['clip-path'];
+                }
+
+                if (defs.children.length === 1) {
+                  svgRoot.children = svgRoot.children.filter((c) => c !== defs);
+                } else {
+                  defs.children = defs.children.filter((c) => c !== clipPath);
+                }
+
+                return ast;
+              },
+            },
+            /*
+            Disabled per request from pictogram maintainer
+            {
               name: 'preset-default',
               params: {
                 overrides: {
@@ -128,6 +178,7 @@ interface Description {
                 },
               },
             },
+            */
           ],
         });
         if (minifiedContent.error !== undefined) {
@@ -256,7 +307,9 @@ interface Description {
         {} as Record<string, string>
       );
 
-    const framed = path.some(o => o.name.toLowerCase() === 'with-frames') ? '-framed' : '';
+    const framed = path.some((o) => o.name.toLowerCase() === 'with-frames')
+      ? '-framed'
+      : '';
 
     return `${parent.name.split('/')!.at(-1)!.toLowerCase()}${value ?? ''}${
       direction ?? ''
@@ -316,5 +369,10 @@ interface Description {
     }
 
     return codeOwnerList;
+  }
+
+  interface ASTRoot {
+    type: 'root';
+    children: XastChild[];
   }
 })();

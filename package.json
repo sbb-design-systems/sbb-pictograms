@@ -37,5 +37,17 @@
   "publishConfig": {
     "access": "public"
   },
-  "type": "module"
+  "type": "module",
+  "standard-version": {
+    "bumpFiles": [
+      {
+        "filename": "package.json",
+        "type": "json"
+      },
+      {
+        "filename": "picto/index.json",
+        "type": "json"
+      }
+    ]
+  }
 }
