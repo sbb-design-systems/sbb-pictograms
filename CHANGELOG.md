@@ -1,6 +1,13 @@
 # Changelog
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
+
+## 0.0.7 (2024-06-18)
+
+
+### Features
+
+* update pictograms ([bf285f6](https://github.com/sbb-design-systems/sbb-pictograms/commit/bf285f640f2c2065ba02dfb15be621294a5d8e92))
 
 ### 0.0.6 (2023-05-23)
 
