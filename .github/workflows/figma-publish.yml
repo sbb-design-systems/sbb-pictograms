@@ -52,10 +52,15 @@ jobs:
           MESSAGE: ${{ github.event.client_payload.description }}
       - name: Ensure latest branch state
         run: git pull --rebase
-
-      - name: Release
-        uses: ./.github/actions/release
+      - name: 'Release: Create release with commit-and-tag-version'
+        run: yarn commit-and-tag-version
+      - name: 'Release: Push release to repository'
+        run: git push --follow-tags origin main
+        
+      - name: Publish
+        uses: ./.github/actions/publish
         with:
           npm-token: ${{ secrets.NPM_TOKEN }}
           aws-access-key-id: ${{ secrets.ICON_CDN_AWS_ACCESS_ID }}
           aws-secret-access-key: ${{ secrets.ICON_CDN_AWS_ACCESS_KEY }}
+          github-token: ${{ secrets.DISPATCH_TOKEN }}

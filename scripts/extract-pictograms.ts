@@ -1,7 +1,8 @@
 import * as Figma from 'figma-js';
 import { readFileSync, writeFileSync } from 'fs';
 import { Octokit } from 'octokit';
-import { XastChild, XastElement, optimize } from 'svgo';
+import { optimize } from 'svgo';
+import type { Visitor, XastElement } from 'svgo/lib/types';
 
 const pictogramsFileId = process.env.FIGMA_FILE_ID!;
 const pictogramBatchSize = 200;
@@ -122,11 +123,10 @@ interface Description {
           plugins: [
             {
               name: 'remove-clip-path',
-              type: 'full',
-              fn(ast: ASTRoot) {
+              fn(ast) {
                 const svgRoot = ast.children[0];
                 if (svgRoot.type !== 'element' || svgRoot.name !== 'svg') {
-                  return ast;
+                  return ast as Visitor;
                 }
 
                 const group = svgRoot.children[0];
@@ -136,7 +136,7 @@ interface Description {
                   !group.attributes['clip-path'] ||
                   !group.attributes['clip-path'].match(/^url\(\#\w+\)$/)
                 ) {
-                  return ast;
+                  return ast as Visitor;
                 }
 
                 const clipPathId = group.attributes['clip-path'].slice(5, -1);
@@ -165,7 +165,7 @@ interface Description {
                   defs.children = defs.children.filter((c) => c !== clipPath);
                 }
 
-                return ast;
+                return ast as Visitor;
               },
             },
             /*
@@ -181,7 +181,7 @@ interface Description {
             */
           ],
         });
-        if (minifiedContent.error !== undefined) {
+        if ('error' in minifiedContent && minifiedContent.error !== undefined) {
           errors.push({
             message: `Failed to minify pictogram ${pictogram.fileName} due to ${minifiedContent.error}`,
             severity: 'warn',
@@ -369,10 +369,5 @@ interface Description {
     }
 
     return codeOwnerList;
-  }
-
-  interface ASTRoot {
-    type: 'root';
-    children: XastChild[];
   }
 })();

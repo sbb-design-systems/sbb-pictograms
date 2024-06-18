@@ -1,5 +1,5 @@
-name: 'Create release'
-description: 'Creates a release, publishes the package and pushes pictograms to S3'
+name: 'Publish release'
+description: 'Publishes the package and pushes icons to S3'
 inputs:
   npm-token:
     description: 'Npm token to publish package'
@@ -10,41 +10,27 @@ inputs:
   aws-secret-access-key:
     description: 'AWS access key secret'
     required: true
+  github-token:
+    description: 'GitHub token to trigger digital.sbb.ch deployment'
+    required: true
 
 runs:
   using: 'composite'
   steps:
-    - name: 'Release: Create release with standard-version'
-      run: |
-        if [ -f CHANGELOG.md ]; then
-          yarn standard-version
-        else
-          yarn standard-version --first-release
-        fi
-      shell: bash
-    - name: 'Release: Push release to repository'
-      run: git push --follow-tags origin main
-      shell: bash
     - name: 'Release: Determine npm tag'
       id: npm_tag
-      run: |
-        if [[ "$REF" == *"-"* ]]
-        then
-            echo "npm_tag=next" >> $GITHUB_OUTPUT
-        else
-            echo "npm_tag=latest" >> $GITHUB_OUTPUT
-        fi
+      run: echo "npm_tag=$([[ "$VERSION" == *"-"* ]] && echo "next" || echo "latest")" >> $GITHUB_OUTPUT
       env:
-        REF: ${{ github.ref }}
+        VERSION: ${{ github.ref }}
       shell: bash
-    - name: 'Release: Publish @sbb-esta/pictograms'
+    - name: 'Release: Publish @sbb-esta/icons'
       run: yarn publish --tag ${{ steps.npm_tag.outputs.npm_tag }}
       env:
         NODE_AUTH_TOKEN: ${{ inputs.npm-token }}
       shell: bash
-
+      
     - name: Configure AWS Credentials
-      uses: aws-actions/configure-aws-credentials@v1-node16
+      uses: aws-actions/configure-aws-credentials@v1
       with:
         aws-access-key-id: ${{ inputs.aws-access-key-id }}
         aws-secret-access-key: ${{ inputs.aws-secret-access-key }}
@@ -58,7 +44,7 @@ runs:
     - name: Dispatch digital.sbb.ch build
       uses: actions/github-script@v6
       with:
-        github-token: ${{ secrets.DISPATCH_TOKEN }}
+        github-token: ${{ inputs.github-token }}
         script: |
           await github.rest.repos.createDispatchEvent({
               owner: context.repo.owner,
