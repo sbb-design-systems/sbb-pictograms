@@ -16,7 +16,7 @@ import { getGruppeData } from "./GRUPPE.js"
 
 const API_BASE_URL = "https://signaletikeditor-apikey.api.sbb.ch"
 const API_KEY = process.env.API_KEY
-const OUT_DIR = "./picto-test"
+const OUT_DIR = "./picto"
 
 if(!existsSync(OUT_DIR)) mkdirSync(OUT_DIR, { recursive: true })
 

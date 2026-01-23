@@ -1,7 +1,7 @@
-import { FARBE } from "./FARBE"
-import { GRUPPE } from "./GRUPPE"
-import { THEMA } from "./THEMA"
-import { TYP } from "./TYP"
+import { FARBE } from "./FARBE.js"
+import { GRUPPE } from "./GRUPPE.js"
+import { THEMA } from "./THEMA.js"
+import { TYP } from "./TYP.js"
 
 
 export type SEEPiktogrammData = {
