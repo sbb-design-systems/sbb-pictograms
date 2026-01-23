@@ -12,8 +12,7 @@
     "sbb"
   ],
   "scripts": {
-    "extract": "node scripts/extract-pictograms.ts",
-    "prepack": "node scripts/build-exports.ts"
+    "fetchPictograms": "tsx scripts/fetch-pictograms-from-see.ts"
   },
   "main": "./picto/index.cjs",
   "module": "./picto/index.mjs",
@@ -26,6 +25,7 @@
     "figma-js": "1.15.0",
     "octokit": "2.0.3",
     "svgo": "3.3.2",
+    "tsx": "^4.21.0",
     "typescript": "5.9.3"
   },
   "files": [
