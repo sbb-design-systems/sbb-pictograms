@@ -1,8 +1,8 @@
-import * as Figma from 'figma-js';
-import { readFileSync, writeFileSync } from 'fs';
-import { Octokit } from 'octokit';
-import { optimize } from 'svgo';
-import type { Visitor, XastElement } from 'svgo/lib/types';
+import * as Figma from "figma-js";
+import { readFileSync, writeFileSync } from "fs";
+import { Octokit } from "octokit";
+import { optimize } from "svgo";
+import type { Visitor, XastElement } from "svgo/lib/types.d.ts";
 
 const pictogramsFileId = process.env.FIGMA_FILE_ID!;
 const pictogramBatchSize = 200;
@@ -17,31 +17,43 @@ interface Description {
 }
 
 (async () => {
-  const errors: Array<{ message: string; severity: 'warn' | 'error' }> = [];
+  const errors: Array<{ message: string; severity: "warn" | "error" }> = [];
   const client = Figma.Client({ personalAccessToken: figmaToken });
   const octokit = new Octokit({ auth: githubToken });
   let components: Record<string, Figma.ComponentMetadata> = {};
 
   class SvgIcon {
     url?: string;
+    readonly fullPath: Figma.Node[];
+    readonly path: Figma.Node[];
+    readonly pathAsString: string;
+    readonly component: Figma.Component;
+    readonly id: string;
+    readonly fileName: string;
+    readonly description: Partial<Description>;
+    readonly keywords: string[];
 
-    constructor(
-      readonly fullPath: Figma.Node[],
-      readonly path = fullPath.slice(0, fullPath.length - 1),
-      readonly pathAsString = fullPath.map((n) => n.name).join(' => '),
-      readonly component = fullPath.at(-1) as Figma.Component,
-      readonly id = component.id,
-      readonly fileName = createIconFileName(fullPath, component, pathAsString),
-      readonly description = tryParseJSON<Description>(
-        components[id]?.description,
-        id,
-        pathAsString
-      ),
-      readonly keywords = [
-        ...splitKeywords(description.keywords),
+    constructor(fullPath: Figma.Node[]) {
+      this.fullPath = fullPath;
+      this.path = fullPath.slice(0, fullPath.length - 1);
+      this.pathAsString = fullPath.map((n) => n.name).join(" => ");
+      this.component = fullPath.at(-1) as Figma.Component;
+      this.id = this.component.id;
+      this.fileName = createIconFileName(
+        fullPath,
+        this.component,
+        this.pathAsString,
+      );
+      this.description = tryParseJSON<Description>(
+        components[this.id]?.description,
+        this.id,
+        this.pathAsString,
+      );
+      this.keywords = [
+        ...splitKeywords(this.description.keywords),
         ...fullPath.map((n) => n.name),
-      ]
-    ) {}
+      ];
+    }
 
     valid() {
       return !!(this.fileName && this.url);
@@ -52,7 +64,7 @@ interface Description {
     await extractPictograms();
   } catch (e) {
     console.log(e);
-    const [owner, repo] = repositorySlug.split('/');
+    const [owner, repo] = repositorySlug.split("/");
     const assignees = findAssignees();
     await octokit.rest.issues.create({
       owner,
@@ -61,7 +73,7 @@ interface Description {
       assignees,
       body: `Icon extraction failed due to: ${e}\n\n${errors
         .map((e) => `${e.severity} ${e.message}`)
-        .join('\n')}`,
+        .join("\n")}`,
     });
     process.exit(1);
   }
@@ -83,80 +95,80 @@ interface Description {
           invalidPictograms.length
         } invalid pictograms:\n${invalidPictograms
           .map((i) => ` - ${i.pathAsString}`)
-          .join('\n')}`
+          .join("\n")}`,
       );
     }
     const validPictograms = pictogramList.filter((i) => i.valid());
 
-    console.log('Generating index.json');
+    console.log("Generating index.json");
     const packageJson = readFileSync(
-      new URL('../package.json', import.meta.url),
-      'utf-8'
+      new URL("../package.json", import.meta.url),
+      "utf-8",
     );
     const data = {
       version: JSON.parse(packageJson).version,
       picto: validPictograms.map((i) => ({
-        name: i.fileName.replace(/.svg$/, ''),
+        name: i.fileName.replace(/.svg$/, ""),
         color: !!i.description.color,
         scalable: i.description.scalable,
         tags: i.keywords,
       })),
     };
     writeFileSync(
-      new URL('../picto/index.json', import.meta.url),
+      new URL("../picto/index.json", import.meta.url),
       JSON.stringify(data, null, 2),
-      'utf-8'
+      "utf-8",
     );
 
-    console.log('Starting svg download');
+    console.log("Starting svg download");
     let index = 0;
     for (const pictogram of validPictograms) {
       const response = await fetch(pictogram.url!);
       if (response.status !== 200) {
         errors.push({
           message: `Failed to download pictogram for ${pictogram.fileName}`,
-          severity: 'error',
+          severity: "error",
         });
       } else {
         const content = await response.text();
         const minifiedContent = optimize(content, {
           plugins: [
             {
-              name: 'remove-clip-path',
+              name: "remove-clip-path",
               fn(ast) {
                 const svgRoot = ast.children[0];
-                if (svgRoot.type !== 'element' || svgRoot.name !== 'svg') {
+                if (svgRoot.type !== "element" || svgRoot.name !== "svg") {
                   return ast as Visitor;
                 }
 
                 const group = svgRoot.children[0];
                 if (
-                  group.type !== 'element' ||
-                  group.name !== 'g' ||
-                  !group.attributes['clip-path'] ||
-                  !group.attributes['clip-path'].match(/^url\(\#\w+\)$/)
+                  group.type !== "element" ||
+                  group.name !== "g" ||
+                  !group.attributes["clip-path"] ||
+                  !group.attributes["clip-path"].match(/^url\(\#\w+\)$/)
                 ) {
                   return ast as Visitor;
                 }
 
-                const clipPathId = group.attributes['clip-path'].slice(5, -1);
+                const clipPathId = group.attributes["clip-path"].slice(5, -1);
                 const defs = svgRoot.children.find(
                   (c): c is XastElement =>
-                    c.type === 'element' && c.name === 'defs'
+                    c.type === "element" && c.name === "defs",
                 )!;
                 const clipPath = defs.children.find(
                   (c) =>
-                    c.type === 'element' &&
-                    c.name === 'clipPath' &&
-                    c.attributes['id'] === clipPathId
+                    c.type === "element" &&
+                    c.name === "clipPath" &&
+                    c.attributes["id"] === clipPathId,
                 );
 
                 if (Object.keys(group.attributes).length === 1) {
                   svgRoot.children = svgRoot.children.flatMap((c) =>
-                    c !== group ? c : group.children
+                    c !== group ? c : group.children,
                   );
                 } else {
-                  delete group.attributes['clip-path'];
+                  delete group.attributes["clip-path"];
                 }
 
                 if (defs.children.length === 1) {
@@ -181,20 +193,20 @@ interface Description {
             */
           ],
         });
-        if ('error' in minifiedContent && minifiedContent.error !== undefined) {
+        if ("error" in minifiedContent && minifiedContent.error !== undefined) {
           errors.push({
             message: `Failed to minify pictogram ${pictogram.fileName} due to ${minifiedContent.error}`,
-            severity: 'warn',
+            severity: "warn",
           });
         } else {
           let svg = minifiedContent.data;
           if (!pictogram.description.color) {
-            svg = svg.replace('<svg ', `<svg class="color-immutable" `);
+            svg = svg.replace("<svg ", `<svg class="color-immutable" `);
           }
           writeFileSync(
             new URL(`../picto/${pictogram.fileName}`, import.meta.url),
             svg,
-            'utf-8'
+            "utf-8",
           );
         }
       }
@@ -204,48 +216,48 @@ interface Description {
       }
     }
 
-    console.log('Finished all svg downloads');
+    console.log("Finished all svg downloads");
     if (errors.length) {
       errors.forEach((e) => console.log(`${e.severity} ${e.message}`));
       throw new Error(`Finished with ${errors.length} errors`);
     }
-    console.log('Successfully completed');
+    console.log("Successfully completed");
   }
 
   function traverseChildren(
     node: Figma.Node,
-    path: Figma.Node[] = []
+    path: Figma.Node[] = [],
   ): SvgIcon[] {
-    if (!('children' in node)) {
+    if (!("children" in node)) {
       return [];
     }
 
     return node.children
-      .filter((c) => !c.name.startsWith('_'))
+      .filter((c) => !c.name.startsWith("_"))
       .map((child) => ({ child, newPath: [...path, child] }))
       .map(({ child, newPath }) =>
-        child.type === 'COMPONENT'
+        child.type === "COMPONENT"
           ? [new SvgIcon(newPath)]
-          : traverseChildren(child, newPath)
+          : traverseChildren(child, newPath),
       )
       .reduce((previous, current) => previous.concat(current));
   }
 
   async function batchIconRequests(
     pictograms: SvgIcon[],
-    pictogramMap: Map<string, SvgIcon> = new Map()
+    pictogramMap: Map<string, SvgIcon> = new Map(),
   ): Promise<SvgIcon[]> {
     console.log(
       `Starting pictogram url batch request for ${pictogramMap.size} to ${
         pictogramMap.size + pictogramBatchSize
-      }`
+      }`,
     );
     const requestBatch = pictograms.slice(0, pictogramBatchSize);
     for (const pictogram of requestBatch) {
       if (pictogramMap.has(pictogram.component.id)) {
         errors.push({
           message: `Duplicate pictogram id ${pictogram.id} (${pictogram.fileName})`,
-          severity: 'warn',
+          severity: "warn",
         });
       }
       pictogramMap.set(pictogram.component.id, pictogram);
@@ -253,11 +265,11 @@ interface Description {
 
     const response = await client.fileImages(pictogramsFileId, {
       ids: requestBatch.map((i) => i.component.id),
-      format: 'svg',
+      format: "svg",
     });
     if (response.status >= 400 || response.data.err) {
       throw new Error(
-        `File request failed: ${response.statusText} ${response.data.err}`
+        `File request failed: ${response.statusText} ${response.data.err}`,
       );
     }
 
@@ -266,7 +278,7 @@ interface Description {
       if (!pictogram) {
         errors.push({
           message: `Received response for unknown pictogram: ${id}`,
-          severity: 'warn',
+          severity: "warn",
         });
       } else {
         pictogram.url = url;
@@ -276,7 +288,7 @@ interface Description {
     if (pictograms.length > pictogramBatchSize) {
       return await batchIconRequests(
         pictograms.slice(pictogramBatchSize),
-        pictogramMap
+        pictogramMap,
       );
     }
 
@@ -286,9 +298,9 @@ interface Description {
   function createIconFileName(
     path: Figma.Node[],
     component: Figma.Component,
-    pathAsString: string
+    pathAsString: string,
   ) {
-    if (!component.name.includes('=')) {
+    if (!component.name.includes("=")) {
       return `${component.name.toLowerCase()}.svg`;
     }
 
@@ -297,34 +309,34 @@ interface Description {
       direction,
       language,
       value,
-      'value-size': valueSize,
+      "value-size": valueSize,
     } = component.name
       .toLowerCase()
       .split(/[, ]+/g)
-      .map((n) => n.split('=', 2))
+      .map((n) => n.split("=", 2))
       .reduce(
         (current, next) => Object.assign(current, { [next[0]]: `-${next[1]}` }),
-        {} as Record<string, string>
+        {} as Record<string, string>,
       );
 
-    const framed = path.some((o) => o.name.toLowerCase() === 'with-frames')
-      ? '-framed'
-      : '';
+    const framed = path.some((o) => o.name.toLowerCase() === "with-frames")
+      ? "-framed"
+      : "";
 
-    return `${parent.name.split('/')!.at(-1)!.toLowerCase()}${value ?? ''}${
-      direction ?? ''
-    }${language ?? ''}${valueSize ?? ''}${framed}.svg`;
+    return `${parent.name.split("/")!.at(-1)!.toLowerCase()}${value ?? ""}${
+      direction ?? ""
+    }${language ?? ""}${valueSize ?? ""}${framed}.svg`;
   }
 
   function tryParseJSON<T>(
     content: string | undefined,
     id: string,
-    pathAsString: string
+    pathAsString: string,
   ): Partial<T> {
     if (!content) {
       errors.push({
         message: `No data for ${id} in ${pathAsString}`,
-        severity: 'warn',
+        severity: "warn",
       });
       return {};
     }
@@ -334,7 +346,7 @@ interface Description {
     } catch (e) {
       errors.push({
         message: `Failed to parse ${id} in ${pathAsString}\n${content}`,
-        severity: 'warn',
+        severity: "warn",
       });
       return {};
     }
@@ -343,7 +355,7 @@ interface Description {
   function splitKeywords(keyword: string | string[] | undefined): string[] {
     if (!keyword) {
       return [];
-    } else if (typeof keyword === 'string') {
+    } else if (typeof keyword === "string") {
       return keyword.split(/[, ]+/);
     } else {
       return keyword;
@@ -353,13 +365,13 @@ interface Description {
   // Read the assignes from the CODEOWNERS file. Only use global (*) code owners.
   function findAssignees(): string[] {
     const codeOwners = readFileSync(
-      new URL('../.github/CODEOWNERS', import.meta.url),
-      'utf-8'
+      new URL("../.github/CODEOWNERS", import.meta.url),
+      "utf-8",
     );
     const codeOwnerList =
       codeOwners
-        .split('\n')
-        .find((l) => l.trim().startsWith('*'))
+        .split("\n")
+        .find((l) => l.trim().startsWith("*"))
         ?.trim()
         .substring(1)
         .split(/[ @]+/)
