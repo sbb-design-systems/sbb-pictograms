@@ -1,11 +1,6 @@
-export enum FARBE {
-    BLAU = "BLAU",
-    GRUEN = "GRUEN",
-    ROT = "ROT",
-    GELB = "GELB"
-}
+export type FARBE = 'BLAU' | 'GRUEN' | 'ROT' | 'GELB'
 
-export interface FARBEDATA {
+export type FARBEDATA = {
     key: FARBE
     hexCode: string
     id: string
@@ -13,27 +8,27 @@ export interface FARBEDATA {
 
 export const getFarbeData = (farbe: FARBE): FARBEDATA => {
     switch(farbe) {
-        case FARBE.BLAU: 
+        case 'BLAU': 
             return {
-                key: FARBE.BLAU,
+                key: 'BLAU',
                 hexCode: "#2D327D",
                 id: "background-blue"
             } as FARBEDATA
-        case FARBE.GRUEN:
+        case 'GRUEN':
             return {
-                key: FARBE.GRUEN,
+                key: 'GRUEN',
                 hexCode: "#237F52",
                 id: "background-green"
             } as FARBEDATA
-        case FARBE.ROT:
+        case 'ROT':
             return {
-                key: FARBE.ROT,
+                key: 'ROT',
                 hexCode: "#9B2423",
                 id: "background-red"
             } as FARBEDATA
-        case FARBE.GELB:
+        case 'GELB':
             return {
-                key: FARBE.GELB,
+                key: 'GELB',
                 hexCode: "#F7B500",
                 id: "background-yellow"
             } as FARBEDATA

@@ -1,7 +1,1 @@
-export enum TYP {
-    ZIEL = "ZIEL",
-    PFEIL = "PFEIL",
-    NAHVERKEHR = "NAHVERKEHR",
-    ZEICHEN = "ZEICHEN",
-    POI = "POI"
-}
+export type TYP = 'ZIEL' | 'PFEIL' | 'NAHVERKEHR' | 'ZEICHEN' | 'POI'

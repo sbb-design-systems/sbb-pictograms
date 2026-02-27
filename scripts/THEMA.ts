@@ -1,14 +1,6 @@
-export enum THEMA {
-    PFEILE = 'PFEILE',
-    GENERISCH = 'GENERISCH',
-    REISEN = 'REISEN',
-    FUNKTIONEN = 'FUNKTIONEN',
-    VERHALTEN = 'VERHALTEN',
-    SICHERHEIT = 'SICHERHEIT',
-    TEXTE = 'TEXTE'
-}
+export type THEMA = 'PFEILE' | 'GENERISCH' | 'REISEN' | 'FUNKTIONEN' | 'VERHALTEN' | 'SICHERHEIT' | 'TEXTE'
 
-export interface THEMADATA {
+export type THEMADATA = {
     key: THEMA
     nameDeutsch: string
     nameFranzoesisch: string
@@ -18,63 +10,63 @@ export interface THEMADATA {
 
 export const getThemaData = (thema: THEMA): THEMADATA => {
     switch(thema) {
-        case THEMA.PFEILE: 
+        case 'PFEILE': 
         return {
-            key: THEMA.PFEILE,
+            key: 'PFEILE',
             nameDeutsch: "Pfeile",
             nameFranzoesisch: "Flèches",
             nameItalienisch: "Frecce",
             nameEnglisch: "Arrows"
         } as THEMADATA
          
-case THEMA.GENERISCH: 
+case 'GENERISCH': 
         return {
-            key: THEMA.GENERISCH,
+            key: 'GENERISCH',
             nameDeutsch: "Generisch",
             nameFranzoesisch: "Généralités",
             nameItalienisch: "Generici",
             nameEnglisch: "Generic"
         } as THEMADATA
          
-case THEMA.REISEN: 
+case 'REISEN': 
         return {
-            key: THEMA.REISEN,
+            key: 'REISEN',
             nameDeutsch: "Reisen",
             nameFranzoesisch: "Voyages",
             nameItalienisch: "Viaggi",
             nameEnglisch: "Travel"
         } as THEMADATA
          
-case THEMA.FUNKTIONEN: 
+case 'FUNKTIONEN': 
         return {
-            key: THEMA.FUNKTIONEN,
+            key: 'FUNKTIONEN',
             nameDeutsch: "Funktionen",
             nameFranzoesisch: "Fonctions",
             nameItalienisch: "Funzioni",
             nameEnglisch: "Functions"
         } as THEMADATA
          
-case THEMA.VERHALTEN: 
+case 'VERHALTEN': 
         return {
-            key: THEMA.VERHALTEN,
+            key: 'VERHALTEN',
             nameDeutsch: "Verhalten",
             nameFranzoesisch: "Comportement",
             nameItalienisch: "Comportamenti",
             nameEnglisch: "Behaviour"
         } as THEMADATA
          
-case THEMA.SICHERHEIT: 
+case 'SICHERHEIT': 
         return {
-            key: THEMA.SICHERHEIT,
+            key: 'SICHERHEIT',
             nameDeutsch: "Sicherheit",
             nameFranzoesisch: "Sécurité",
             nameItalienisch: "Sicurezza",
             nameEnglisch: "Safety"
         } as THEMADATA
          
-case THEMA.TEXTE: 
+case 'TEXTE': 
         return {
-            key: THEMA.TEXTE,
+            key: 'TEXTE',
             nameDeutsch: "Texte",
             nameFranzoesisch: "Textes",
             nameItalienisch: "Texti",
@@ -82,18 +74,3 @@ case THEMA.TEXTE:
         } as THEMADATA
     }
 }
-
-/*
-console.log(temp1.Categories.content.map(kat => 
-    `case THEMA.${kat.see_Enum}: 
-        return {
-            key: "XXX",
-            nameDeutsch: "${kat.name_de}",
-            nameFranzoesisch: "${kat.name_fr}",
-            nameItalienisch: "${kat.name_it}",
-            nameEnglisch: "${kat.name_en}"
-        } as THEMADATA
-         `
-    ).join('\n')
-)
-*/

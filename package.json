@@ -1,6 +1,6 @@
 {
   "name": "@sbb-esta/pictograms",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Pictogram package for the SBB organization",
   "repository": "https://github.com/sbb-design-systems/sbb-pictograms.git",
   "author": "ESTA",
@@ -12,7 +12,7 @@
     "sbb"
   ],
   "scripts": {
-    "fetchPictograms": "tsx scripts/fetch-pictograms-from-see.ts"
+    "fetchPictograms": "node scripts/fetch-pictograms-from-see.ts"
   },
   "main": "./picto/index.cjs",
   "module": "./picto/index.mjs",
@@ -22,8 +22,6 @@
   "devDependencies": {
     "@types/node": "24.10.9",
     "commit-and-tag-version": "12.6.1",
-    "figma-js": "1.15.0",
-    "octokit": "2.0.3",
     "svgo": "3.3.2",
     "tsx": "^4.21.0",
     "typescript": "5.9.3"

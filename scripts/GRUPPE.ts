@@ -1,23 +1,4 @@
-export enum GRUPPE {
-    PFEILRICHTUNGEN = 'PFEILRICHTUNGEN',
-    DREHRICHTUNGEN = 'DREHRICHTUNGEN',
-    GLEISE = 'GLEISE',
-    SEKTOREN = 'SEKTOREN',
-    KANTEN = 'KANTEN',
-    KLASSEN = 'KLASSEN',
-    VERKEHRSMITTEL = 'VERKEHRSMITTEL',
-    PARKIEREN = 'PARKIEREN',
-    BARRIEREFREIHEIT = 'BARRIEREFREIHEIT',
-    DIENSTLEISTUNGEN = 'DIENSTLEISTUNGEN',
-    AUF_ABGAENGE = 'AUF_ABGAENGE',
-    ENTSORGUNG_RECYCLING = 'ENTSORGUNG_RECYCLING',
-    HYGIENE = 'HYGIENE',
-    FUNKTIONSWEISE = 'FUNKTIONSWEISE',
-    GEBOTE_VERBOTE = 'GEBOTE_VERBOTE',
-    EVAKUATION = 'EVAKUATION',
-    BRANDBEKAEMPFUNG = 'BRANDBEKAEMPFUNG',
-    POINT_OF_INTEREST = 'POINT_OF_INTEREST'
-}
+export type GRUPPE = 'PFEILRICHTUNGEN' | 'DREHRICHTUNGEN' | 'GLEISE' | 'SEKTOREN' | 'KANTEN' | 'KLASSEN' | 'VERKEHRSMITTEL' | 'PARKIEREN' | 'BARRIEREFREIHEIT' | 'DIENSTLEISTUNGEN' | 'AUF_ABGAENGE' | 'ENTSORGUNG_RECYCLING' | 'HYGIENE' | 'FUNKTIONSWEISE' | 'GEBOTE_VERBOTE' | 'EVAKUATION' | 'BRANDBEKAEMPFUNG' | 'POINT_OF_INTEREST'
 
 export interface GRUPPEDATA {
     key: GRUPPE
@@ -29,7 +10,7 @@ export interface GRUPPEDATA {
 
 export const getGruppeData = (gruppe: GRUPPE): GRUPPEDATA => {
     switch(gruppe) {
-        case GRUPPE.PFEILRICHTUNGEN: 
+        case 'PFEILRICHTUNGEN': 
     return {
         key: "PFEILRICHTUNGEN",
         nameDeutsch: "Pfeilrichtungen",
@@ -38,7 +19,7 @@ export const getGruppeData = (gruppe: GRUPPE): GRUPPEDATA => {
         nameEnglisch: "Directions"
     } as GRUPPEDATA
 
-case GRUPPE.DREHRICHTUNGEN: 
+case 'DREHRICHTUNGEN': 
     return {
         key: "DREHRICHTUNGEN",
         nameDeutsch: "Drehrichtungen",
@@ -47,7 +28,7 @@ case GRUPPE.DREHRICHTUNGEN:
         nameEnglisch: "Rotations"
     } as GRUPPEDATA
 
-case GRUPPE.GLEISE: 
+case 'GLEISE': 
     return {
         key: "GLEISE",
         nameDeutsch: "Gleise",
@@ -56,7 +37,7 @@ case GRUPPE.GLEISE:
         nameEnglisch: "Platforms"
     } as GRUPPEDATA
 
-case GRUPPE.SEKTOREN: 
+case 'SEKTOREN': 
     return {
         key: "SEKTOREN",
         nameDeutsch: "Sektoren",
@@ -65,7 +46,7 @@ case GRUPPE.SEKTOREN:
         nameEnglisch: "Sectors"
     } as GRUPPEDATA
 
-case GRUPPE.KANTEN: 
+case 'KANTEN': 
     return {
         key: "KANTEN",
         nameDeutsch: "Kanten",
@@ -74,7 +55,7 @@ case GRUPPE.KANTEN:
         nameEnglisch: "Stops"
     } as GRUPPEDATA
 
-case GRUPPE.KLASSEN: 
+case 'KLASSEN': 
     return {
         key: "KLASSEN",
         nameDeutsch: "Klassen",
@@ -83,7 +64,7 @@ case GRUPPE.KLASSEN:
         nameEnglisch: "Classes"
     } as GRUPPEDATA
 
-case GRUPPE.VERKEHRSMITTEL: 
+case 'VERKEHRSMITTEL': 
     return {
         key: "VERKEHRSMITTEL",
         nameDeutsch: "Verkehrsmittel",
@@ -92,7 +73,7 @@ case GRUPPE.VERKEHRSMITTEL:
         nameEnglisch: "Transports"
     } as GRUPPEDATA
 
-case GRUPPE.PARKIEREN: 
+case 'PARKIEREN': 
     return {
         key: "PARKIEREN",
         nameDeutsch: "Parkieren",
@@ -101,7 +82,7 @@ case GRUPPE.PARKIEREN:
         nameEnglisch: "Parking"
     } as GRUPPEDATA
 
-case GRUPPE.BARRIEREFREIHEIT: 
+case 'BARRIEREFREIHEIT': 
     return {
         key: "BARRIEREFREIHEIT",
         nameDeutsch: "Barrierefreiheit",
@@ -110,7 +91,7 @@ case GRUPPE.BARRIEREFREIHEIT:
         nameEnglisch: "Accessibility"
     } as GRUPPEDATA
 
-case GRUPPE.DIENSTLEISTUNGEN: 
+case 'DIENSTLEISTUNGEN': 
     return {
         key: "DIENSTLEISTUNGEN",
         nameDeutsch: "Dienstleistungen",
@@ -119,7 +100,7 @@ case GRUPPE.DIENSTLEISTUNGEN:
         nameEnglisch: "Services"
     } as GRUPPEDATA
 
-case GRUPPE.AUF_ABGAENGE: 
+case 'AUF_ABGAENGE': 
     return {
         key: "AUF_ABGAENGE",
         nameDeutsch: "Auf-Abgänge",
@@ -128,7 +109,7 @@ case GRUPPE.AUF_ABGAENGE:
         nameEnglisch: "Risings-leavings"
     } as GRUPPEDATA
 
-case GRUPPE.ENTSORGUNG_RECYCLING: 
+case 'ENTSORGUNG_RECYCLING': 
     return {
         key: "ENTSORGUNG_RECYCLING",
         nameDeutsch: "Entsorgung-Recycling",
@@ -137,7 +118,7 @@ case GRUPPE.ENTSORGUNG_RECYCLING:
         nameEnglisch: "Recycling"
     } as GRUPPEDATA
 
-case GRUPPE.HYGIENE: 
+case 'HYGIENE': 
     return {
         key: "HYGIENE",
         nameDeutsch: "Hygiene",
@@ -146,7 +127,7 @@ case GRUPPE.HYGIENE:
         nameEnglisch: "Hygiene"
     } as GRUPPEDATA
 
-case GRUPPE.FUNKTIONSWEISE: 
+case 'FUNKTIONSWEISE': 
     return {
         key: "FUNKTIONSWEISE",
         nameDeutsch: "Funktionsweise",
@@ -155,7 +136,7 @@ case GRUPPE.FUNKTIONSWEISE:
         nameEnglisch: "Functionality"
     } as GRUPPEDATA
 
-case GRUPPE.GEBOTE_VERBOTE: 
+case 'GEBOTE_VERBOTE': 
     return {
         key: "GEBOTE_VERBOTE",
         nameDeutsch: "Gebote_Verbote",
@@ -164,7 +145,7 @@ case GRUPPE.GEBOTE_VERBOTE:
         nameEnglisch: "Prohibitions"
     } as GRUPPEDATA
 
-case GRUPPE.EVAKUATION: 
+case 'EVAKUATION': 
     return {
         key: "EVAKUATION",
         nameDeutsch: "Evakuation",
@@ -173,7 +154,7 @@ case GRUPPE.EVAKUATION:
         nameEnglisch: "Evacuation"
     } as GRUPPEDATA
 
-case GRUPPE.BRANDBEKAEMPFUNG: 
+case 'BRANDBEKAEMPFUNG': 
     return {
         key: "BRANDBEKAEMPFUNG",
         nameDeutsch: "Brandbekämpfung",
@@ -182,7 +163,7 @@ case GRUPPE.BRANDBEKAEMPFUNG:
         nameEnglisch: "Firefighting"
     } as GRUPPEDATA
 
-case GRUPPE.POINT_OF_INTEREST: 
+case 'POINT_OF_INTEREST': 
     return {
         key: "POINT_OF_INTEREST",
         nameDeutsch: "Point of Interest",

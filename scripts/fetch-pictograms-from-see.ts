@@ -1,5 +1,6 @@
-import { readdirSync, readFileSync, writeFileSync, unlink, existsSync, mkdirSync } from "fs"
-import { optimize, Output } from "svgo"
+import { readdirSync, readFileSync, writeFileSync, existsSync, mkdirSync, unlinkSync } from "fs"
+import { optimize } from "svgo"
+import type { Output } from "svgo"
 import type { Visitor, XastElement } from 'svgo/lib/types.js'
 import { exit } from "process"
 
@@ -8,10 +9,12 @@ import type {
     SEEPiktogrammDokumentData, 
     FarbeData,
     IndexJSONEntry,
-} from "./types.js"
-import { FARBE, getFarbeData } from "./FARBE.js"
-import { getThemaData } from "./THEMA.js"
-import { getGruppeData } from "./GRUPPE.js"
+} from "./types.ts"
+
+import type { FARBE } from "./FARBE.ts"
+import { getFarbeData } from "./FARBE.ts"
+import { getThemaData } from "./THEMA.ts"
+import { getGruppeData } from "./GRUPPE.ts"
 
 
 const API_BASE_URL = "https://signaletikeditor-apikey.api.sbb.ch"
@@ -196,11 +199,9 @@ const generateFile = (piktogramm: SEEPiktogrammData, dokument: SEEPiktogrammDoku
     writeFileSync(`${OUT_DIR}/index.json`, JSON.stringify(indexJSON, null, 2))
 }
 
-writeFileSync(`${OUT_DIR}/index.json`, JSON.stringify({ version: "0.1.0", picto: [] }, null, 2)) //clear index.json file
-
 readdirSync(OUT_DIR, { withFileTypes: true }) //delete all .svg files inside the output directory
 .filter(file => file.isFile() && file.name.endsWith(".svg"))
-.forEach(file => unlink(`${file.parentPath}/${file.name}`, (err) => { if(err) console.error(err) }))
+.forEach(file => unlinkSync(`${file.parentPath}/${file.name}`))
 
 fetch(piktogrammURL)
 .then(response => {
