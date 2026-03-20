@@ -12,7 +12,8 @@
     "sbb"
   ],
   "scripts": {
-    "fetchPictograms": "node scripts/fetch-pictograms-from-see.ts"
+    "fetchPictograms": "node scripts/fetch-pictograms-from-see.ts",
+    "compare": "npx -y http-server"
   },
   "main": "./picto/index.cjs",
   "module": "./picto/index.mjs",

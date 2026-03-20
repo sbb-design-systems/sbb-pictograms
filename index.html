@@ -1,0 +1,99 @@
+<!-- This is a simple single page app to compare icons -->
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Compare Icons</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@sbb-esta/lyne-elements@4.8.1/standard-theme.css"
+    />
+    <script type="importmap">
+      {
+        "imports": {
+          "tslib": "https://unpkg.com/tslib/tslib.es6.mjs",
+          "@lit/reactive-element": "https://unpkg.com/@lit/reactive-element/reactive-element.js",
+          "@lit/reactive-element/": "https://unpkg.com/@lit/reactive-element/",
+          "@lit-labs/observers/": "https://unpkg.com/@lit-labs/observers/",
+          "lit": "https://unpkg.com/lit/index.js",
+          "lit/": "https://unpkg.com/lit/",
+          "lit-element/": "https://unpkg.com/lit-element/",
+          "lit-html": "https://unpkg.com/lit-html/lit-html.js",
+          "lit-html/": "https://unpkg.com/lit-html/"
+        }
+      }
+    </script>
+    <script>
+      globalThis.sbbConfig = {
+        icon: {
+          namespaces: new Map().set("local", "/picto/"),
+        },
+      };
+    </script>
+    <script
+      type="module"
+      src="https://unpkg.com/@sbb-esta/lyne-elements/icon.js"
+    ></script>
+    <script
+      type="module"
+      src="https://unpkg.com/@sbb-esta/lyne-elements/form-field.js"
+    ></script>
+    <script
+      type="module"
+      src="https://unpkg.com/@sbb-esta/lyne-elements/title.js"
+    ></script>
+  </head>
+  <body>
+    <sbb-title>SBB Pictogram Comparison</sbb-title>
+    <p>
+      <sbb-form-field>
+        <label>Override Dimension</label>
+        <input type="number" />
+      </sbb-form-field>
+    </p>
+    <main>
+      <table>
+        <tr>
+          <th>Name</th>
+          <th>Current</th>
+          <th>New</th>
+        </tr>
+      </table>
+    </main>
+    <script type="module">
+      import data from "./picto/index.json" with { type: "json" };
+
+      const table = document.querySelector("table");
+      table.classList.add("sbb-table");
+      for (const picto of data.picto) {
+        const tr = document.createElement("tr");
+        const nameTd = document.createElement("td");
+        nameTd.textContent = picto.name;
+        tr.appendChild(nameTd);
+        const currentTd = document.createElement("td");
+        const currentIcon = document.createElement("sbb-icon");
+        currentIcon.name = `picto:${picto.name}`;
+        currentTd.appendChild(currentIcon);
+        tr.appendChild(currentTd);
+        const newTd = document.createElement("td");
+        const newIcon = document.createElement("sbb-icon");
+        newIcon.name = `local:${picto.name}`;
+        newTd.appendChild(newIcon);
+        tr.appendChild(newTd);
+        table.appendChild(tr);
+      }
+
+      const input = document.querySelector("input");
+      input.addEventListener("input", () => {
+        const value = input.value;
+        if (value) {
+          table.style.setProperty("--sbb-icon-svg-height", `${value}px`);
+          table.style.setProperty("--sbb-icon-svg-width", `${value}px`);
+        } else {
+          table.style.removeProperty("--sbb-icon-svg-height");
+          table.style.removeProperty("--sbb-icon-svg-width");
+        }
+      });
+    </script>
+  </body>
+</html>
