@@ -203,6 +203,8 @@ readdirSync(OUT_DIR, { withFileTypes: true }) //delete all .svg files inside the
 .filter(file => file.isFile() && file.name.endsWith(".svg"))
 .forEach(file => unlinkSync(`${file.parentPath}/${file.name}`))
 
+writeFileSync(`${OUT_DIR}/index.json`, JSON.stringify({version: "0.1.0", picto: []}, null, 2)) //clear the index.json file before adding pictos to it
+
 fetch(piktogrammURL)
 .then(response => {
     if (response.status === 200) {
