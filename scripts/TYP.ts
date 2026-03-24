@@ -1,0 +1,1 @@
+export type TYP = 'ZIEL' | 'PFEIL' | 'NAHVERKEHR' | 'ZEICHEN' | 'POI'
